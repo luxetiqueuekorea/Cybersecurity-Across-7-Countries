@@ -15,13 +15,12 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cybersecurity-7%20Countries-0A66C2?style=for-the-badge" alt="Cybersecurity">
-<img src="https://img.shields.io/badge/Industry-Education-16A34A?style=for-the-badge" alt="Industry and Education">
-<img src="https://img.shields.io/badge/Cloud-DevSecOps-7C3AED?style=for-the-badge" alt="Cloud and DevSecOps">
-<img src="https://img.shields.io/badge/AI-Security-DC2626?style=for-the-badge" alt="AI Security">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-111827?style=flat-square" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/7%20COUNTRIES-2563EB?style=flat-square" alt="7 Countries">
+  <img src="https://img.shields.io/badge/INDUSTRY%20%26%20EDUCATION-374151?style=flat-square" alt="Industry and Education">
+  <img src="https://img.shields.io/badge/CLOUD%20%26%20DEVSECOPS-374151?style=flat-square" alt="Cloud and DevSecOps">
+  <img src="https://img.shields.io/badge/AI%20%26%20SECURITY-111827?style=flat-square" alt="AI and Security">
 </p>
-
-> **Learn. Build. Detect. Defend.**
 
 ## 🧭 Quick Navigation
 
