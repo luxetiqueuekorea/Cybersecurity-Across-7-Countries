@@ -1,155 +1,159 @@
-🌐 Cybersecurity Across 7 Countries
+
 
 <p align="center">
-  <strong>A modern reference guide to cybersecurity, industry, education, careers, technologies, and future security across seven countries.</strong>
+  <strong>A professional global reference for cybersecurity education, industry, careers, technologies, and research across seven countries.</strong>
 </p>
 
 <p align="center">
-  <a href="#-seven-country-focus">Countries</a> •
-  <a href="#-cybersecurity-by-country">Cybersecurity by Country</a> •
-  <a href="#-bs-in-cybersecurity">BS in Cybersecurity</a> •
-  <a href="#-career-paths">Careers</a> •
-  <a href="#-tools--technologies">Tools</a> •
-  <a href="#-future-of-cybersecurity">Future</a>
+  <img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom • <img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore • <img src="https://flagcdn.com/w40/eg.png" width="24" alt="Egypt"> Egypt • <img src="https://flagcdn.com/w40/in.png" width="24" alt="India"> India • <img src="https://flagcdn.com/w40/us.png" width="24" alt="United States"> United States • <img src="https://flagcdn.com/w40/kr.png" width="24" alt="Korea"> Korea • <img src="https://flagcdn.com/w40/cn.png" width="24" alt="China"> China
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=for-the-badge" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Countries-7-111827?style=for-the-badge" alt="7 Countries">
+  <img src="https://img.shields.io/badge/Education-BS%20in%20Cybersecurity-16A34A?style=for-the-badge" alt="BS in Cybersecurity">
+  <img src="https://img.shields.io/badge/Scope-Global-7C3AED?style=for-the-badge" alt="Global">
 </p>
 
 📌 About
 
-Cybersecurity Across 7 Countries is a structured learning and reference project covering the cybersecurity ecosystem across:
+Cybersecurity Across 7 Countries is a structured knowledge repository covering the cybersecurity ecosystems of:
 
-:gb: United Kingdom
+<img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom
 
-:sg: Singapore
+<img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore
 
-:eg: Egypt
+<img src="https://flagcdn.com/w40/eg.png" width="24" alt="Egypt"> Egypt
 
-:india: India
+<img src="https://flagcdn.com/w40/in.png" width="24" alt="India"> India
 
-:us: United States
+<img src="https://flagcdn.com/w40/us.png" width="24" alt="United States"> United States
 
-:kr: Korea
+<img src="https://flagcdn.com/w40/kr.png" width="24" alt="Korea"> Korea
 
-:cn: China
+<img src="https://flagcdn.com/w40/cn.png" width="24" alt="China"> China
 
-The project brings together national cybersecurity ecosystems, notable security companies, education pathways, professional roles, technical skills, security technologies, and emerging areas.
+The repository connects education, cybersecurity companies, national organizations, technical skills, university programs, professional roles, practical laboratories, cloud security, DevSecOps, AI security, and emerging technologies.
 
-Purpose: provide students, learners, developers, security professionals, and researchers with a practical starting point for understanding cybersecurity across different markets.
+The goal is to provide students, researchers, developers, security professionals, and cybersecurity learners with a practical starting point for understanding cybersecurity across different countries.
+
+This is a reference and learning repository, not a ranking of countries.
 
 🧭 Contents
 
-Seven-Country Focus
-
-Cybersecurity by Country
-
-United Kingdom
-
-Singapore
-
-Egypt
-
-India
-
-United States
-
-Korea
-
-China
-
-Major Fields of Cybersecurity
-
-BS in Cybersecurity
-
-Core Curriculum
-
-Practical Learning
-
-Cybersecurity Companies
-
-Career Paths
-
-Tools & Technologies
-
-Cloud, DevSecOps & Container Security
-
-AI & Cybersecurity
-
-Certifications
-
-Internship & Capstone
-
-Future of Cybersecurity
-
-Learning Roadmap
-
-Contributing
-
-References
-
 🌍 Seven-Country Focus
-
-Directory principle: Each country section follows the same structure: cybersecurity landscape, key sectors, major cybersecurity companies and organizations, universities with dedicated or substantial cybersecurity education/research, skills, and career relevance.
-
-Country
-
-Core Cybersecurity Ecosystem
-
-United Kingdom
-
-National cyber resilience, government security, financial services, defense, consulting, research
-
-Singapore
-
-Critical infrastructure, digital economy, financial services, cloud security, cyber resilience
-
-Egypt
-
-Digital transformation, government systems, telecommunications, financial services, cyber capacity building
-
-India
-
-IT services, digital public infrastructure, financial technology, enterprise security, security operations
-
-United States
-
-Cybersecurity products, cloud security, defense, critical infrastructure, threat intelligence, security research
-
-Korea
-
-Telecommunications, semiconductors, consumer technology, enterprise security, digital infrastructure
-
-China
-
-Digital infrastructure, telecommunications, enterprise security, cloud, industrial and information security
-
-This repository does not rank the countries. Each cybersecurity ecosystem has different institutions, industries, regulations, technologies, and workforce requirements.
 
 🛡️ Cybersecurity by Country
 
-🗂️ Country Section Format
+<img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom
 
-Every country is documented using the same framework:
+<img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore
 
-Cybersecurity Landscape
+<img src="https://flagcdn.com/w40/eg.png" width="24" alt="Egypt"> Egypt
 
-Key Areas
+<img src="https://flagcdn.com/w40/in.png" width="24" alt="India"> India
 
-Major Cybersecurity Companies & Organizations
+<img src="https://flagcdn.com/w40/us.png" width="24" alt="United States"> United States
 
-Cybersecurity-Focused Universities & Programs
+<img src="https://flagcdn.com/w40/kr.png" width="24" alt="Korea"> Korea
 
-Useful Skills
+<img src="https://flagcdn.com/w40/cn.png" width="24" alt="China"> China
 
-Career Opportunities
+🔐 Major Fields of Cybersecurity
 
-Relevant Government / National Cybersecurity Bodies
+🎓 BS in Cybersecurity
 
-:gb: United Kingdom
+📚 Four-Year Curriculum
+
+🧪 Practical Learning
+
+🏢 Cybersecurity Companies
+
+🎓 University Directory
+
+👨‍💻 Career Paths
+
+🧰 Tools & Technologies
+
+☁️ Cloud, DevSecOps & Container Security
+
+🤖 AI & Cybersecurity
+
+📜 Certifications
+
+💼 Internship & Capstone
+
+🚀 Learning Roadmap
+
+🌱 Future of Cybersecurity
+
+🤝 Contributing
+
+📖 References
+
+🌍 Seven-Country Focus
+
+Country
+
+Cybersecurity Focus
+
+<img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom
+
+National cyber resilience, defense, financial services, technology, consulting, research
+
+<img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore
+
+Critical infrastructure, financial services, cloud security, digital resilience
+
+<img src="https://flagcdn.com/w40/eg.png" width="24" alt="Egypt"> Egypt
+
+Digital transformation, telecommunications, government, financial services
+
+<img src="https://flagcdn.com/w40/in.png" width="24" alt="India"> India
+
+IT services, enterprise security, banking, digital infrastructure, security operations
+
+<img src="https://flagcdn.com/w40/us.png" width="24" alt="United States"> United States
+
+Security products, cloud, defense, critical infrastructure, threat intelligence
+
+<img src="https://flagcdn.com/w40/kr.png" width="24" alt="Korea"> Korea
+
+Telecommunications, technology, semiconductors, enterprise and national security
+
+<img src="https://flagcdn.com/w40/cn.png" width="24" alt="China"> China
+
+Telecommunications, cloud, data security, industrial and information security
+
+Country Section Framework
+
+Every country is covered through the same core dimensions:
+
+Cybersecurity landscape
+
+Key security sectors
+
+Major cybersecurity companies
+
+National cybersecurity organizations
+
+Cybersecurity-focused universities
+
+Relevant skills
+
+Career opportunities
+
+Education and research
+
+🛡️ Cybersecurity by Country
+
+<img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom
 
 Cybersecurity Landscape
 
 The United Kingdom has a mature cybersecurity ecosystem spanning government, defense, financial services, telecommunications, technology, consulting, research, and cyber assurance.
 
-The National Cyber Security Centre (NCSC) provides national-level guidance, incident-response capabilities, assurance schemes, and cybersecurity resources.
+The National Cyber Security Centre provides national cybersecurity guidance, incident-response capabilities, assurance schemes, and security resources.
 
 Key Areas
 
@@ -173,32 +177,6 @@ Security research
 
 Government cybersecurity
 
-Notable Companies & Organizations
-
-BAE Systems
-
-Darktrace
-
-Sophos
-
-NCC Group
-
-BT
-
-Vodafone
-
-Thales
-
-IBM United Kingdom
-
-Microsoft United Kingdom
-
-National Cyber Security Centre
-
-Useful Skills
-
-SOC SIEM Threat Intelligence Incident Response Cloud Security Penetration Testing GRC
-
 Major Cybersecurity Companies & Organizations
 
 BAE Systems
@@ -221,15 +199,15 @@ Leonardo
 
 Airbus CyberSecurity
 
-Kyndryl United Kingdom
+IBM
 
-IBM United Kingdom
+Microsoft
 
-Microsoft United Kingdom
+Kyndryl
 
-PwC United Kingdom
+Deloitte
 
-Deloitte United Kingdom
+PwC
 
 National Cyber Security Centre
 
@@ -239,87 +217,49 @@ National Cyber Force
 
 Cybersecurity-Focused Universities & Programs
 
-The United Kingdom has a formal NCSC certification framework for cybersecurity degrees. The current NCSC list includes many certified undergraduate and postgraduate programs. citeturn1search0
+Abertay University — Ethical Hacking
 
-University
+University of Warwick — Cyber Security
 
-Cybersecurity-focused study
+Royal Holloway, University of London — Information and Cyber Security
 
-Abertay University
+University of Southampton — Cyber Security
 
-BSc Ethical Hacking; MSc Ethical Hacking and Cyber Security
+University of Birmingham — Cyber Security
 
-University of Warwick
+University of Bristol — Cyber Security
 
-BSc Cyber Security; MSc Cyber Security Engineering
+University of Edinburgh — Cyber Security, Privacy and Trust
 
-Royal Holloway, University of London
+University of Oxford — Software and Systems Security
 
-BSc Computer Science (Cyber Security); MSc Information and Cyber Security
+University of Manchester — Advanced Computer Science and Security
 
-University of Southampton
+University College London — Information Security
 
-MEng Computer Science with Cyber Security; MSc Cyber Security
+University of Surrey — Cyber Security
 
-University of Birmingham
+University of Sheffield — Cyber Security and Artificial Intelligence
 
-MSc Cyber Security
+Lancaster University — Cyber Security
 
-University of Bristol
+University of Portsmouth — Cyber Security and Forensic Computing
 
-MSc Cyber Security
+University of Greenwich — Computer Security and Digital Forensics
 
-University of Edinburgh
+Edinburgh Napier University — Cyber Security and Forensics
 
-MSc Cyber Security, Privacy and Trust
+Useful Skills
 
-University of Oxford
+SOC SIEM Threat Intelligence Incident Response Cloud Security Penetration Testing GRC
 
-MSc Software and Systems Security
-
-University of Manchester
-
-Advanced Computer Science with security-related study
-
-University College London
-
-MSc Information Security
-
-University of Surrey
-
-MSc Cyber Security
-
-University of Sheffield
-
-MSc Cyber Security and Artificial Intelligence
-
-Lancaster University
-
-BSc Cyber Security; MSc Cyber Security
-
-University of Portsmouth
-
-BSc Cyber Security and Forensic Computing
-
-University of Greenwich
-
-BSc Computer Security and Digital Forensics
-
-Edinburgh Napier University
-
-BEng Cyber Security and Forensics
-
-University of Glasgow / Glasgow Caledonian University
-
-Cyber Security and Networks / Cyber Security programs
-
-The NCSC also recognises Academic Centres of Excellence in Cyber Security Research, including universities such as Cambridge, Imperial College London, Oxford, Warwick, Southampton, Bristol, Edinburgh, Manchester and others. citeturn0search8
-
-:sg: Singapore
+<img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore
 
 Cybersecurity Landscape
 
-Singapore treats cybersecurity as an important part of national resilience and its digital economy. The Cyber Security Agency of Singapore (CSA) works across critical information infrastructure, enterprise security, cybersecurity awareness, incident response, and cyber ecosystem development.
+Singapore has developed a strong cybersecurity ecosystem around critical infrastructure, financial services, digital government, telecommunications, cloud platforms, and national cyber resilience.
+
+The Cyber Security Agency of Singapore plays a central role in national cybersecurity policy, critical infrastructure protection, incident response, and cybersecurity development.
 
 Key Areas
 
@@ -341,32 +281,6 @@ Cybersecurity standards
 
 Security operations
 
-Notable Companies & Organizations
-
-ST Engineering
-
-Ensign InfoSecurity
-
-Group-IB
-
-Horangi Cyber Security
-
-GovTech Singapore
-
-Cyber Security Agency of Singapore
-
-Singtel
-
-NCS
-
-IBM Singapore
-
-Microsoft Singapore
-
-Useful Skills
-
-Cloud Security SOC Threat Hunting Incident Response OT Security AI Security Risk Management
-
 Major Cybersecurity Companies & Organizations
 
 ST Engineering
@@ -387,61 +301,45 @@ Cyber Security Agency of Singapore
 
 Acronis
 
-Palo Alto Networks Singapore
+Palo Alto Networks
 
-CrowdStrike Singapore
+CrowdStrike
 
-Fortinet Singapore
+Fortinet
 
-Cisco Singapore
+Cisco
 
-Microsoft Singapore
+Microsoft
 
-IBM Singapore
+IBM
 
-Google Singapore
+Google
 
-Amazon Web Services Singapore
+Amazon Web Services
 
 Cybersecurity-Focused Universities & Programs
 
-University / Institution
+National University of Singapore — Information Security
 
-Cybersecurity-focused study
+Singapore Institute of Technology — Information and Communications Technology, Information Security
 
-National University of Singapore
+Nanyang Technological University — Cybersecurity research and postgraduate education
 
-Bachelor of Computing in Information Security
+Singapore Management University — Information security and computing
 
-Singapore Institute of Technology
+Singapore University of Technology and Design — Security and cybersecurity research
 
-BEng Information and Communications Technology, major in Information Security
+Singapore University of Social Sciences — ICT and security-related study
 
-Nanyang Technological University
+Useful Skills
 
-Cybersecurity postgraduate education and research
+Cloud Security SOC Threat Hunting Incident Response OT Security AI Security Risk Management
 
-Singapore Management University
-
-Information security and cybersecurity-related computing study
-
-Singapore University of Technology and Design
-
-Security-related computing and cybersecurity research
-
-Singapore University of Social Sciences
-
-Information and communication technology programs with security-related study
-
-NUS offers a dedicated undergraduate Bachelor of Computing in Information Security, while Singapore Institute of Technology offers a four-year information-security major covering secure software development, ethical hacking, digital forensics, network security, web security and governance. citeturn0search2turn0search5
-
-The CyberSG Talent, Innovation and Growth Collaboration Centre is a joint initiative involving the Cyber Security Agency of Singapore and NUS, connecting government, academia and industry. citeturn0search9
-
-:eg: Egypt
+<img src="https://flagcdn.com/w40/eg.png" width="24" alt="Egypt"> Egypt
 
 Cybersecurity Landscape
 
-Egypt's cybersecurity ecosystem is connected to national digital transformation, telecommunications, financial services, government systems, critical infrastructure, and cybersecurity capacity development.
+Egypt's cybersecurity ecosystem is connected to digital transformation, telecommunications, financial services, government systems, critical infrastructure, and national cybersecurity capacity development.
 
 Key Areas
 
@@ -463,30 +361,6 @@ Incident response
 
 Digital forensics
 
-Notable Companies & Organizations
-
-ITIDA
-
-Telecom Egypt
-
-Raya Information Technology
-
-Orange Egypt
-
-Vodafone Egypt
-
-IBM Egypt
-
-Microsoft Egypt
-
-Cisco Egypt
-
-Egypt's National Computer Emergency Readiness Team
-
-Useful Skills
-
-Network Security SOC Digital Forensics Incident Response SIEM Cloud Security Risk Management
-
 Major Cybersecurity Companies & Organizations
 
 Telecom Egypt
@@ -497,75 +371,55 @@ Orange Egypt
 
 Vodafone Egypt
 
-IBM Egypt
+IBM
 
-Microsoft Egypt
+Microsoft
 
-Cisco Egypt
+Cisco
 
-Huawei Egypt
+Huawei
 
-Dell Technologies Egypt
+Dell Technologies
 
 Orange Cyberdefense
-
-EC-Council Egypt
 
 ITIDA
 
 National Telecom Regulatory Authority
 
-Egypt's Computer Emergency Readiness Team
+Egypt Computer Emergency Readiness Team
 
 Ministry of Communications and Information Technology
 
 Cybersecurity-Focused Universities & Programs
 
-University
+Ain Shams University — Cyber Security
 
-Cybersecurity-focused study
+The American University in Cairo — Computer Science with Cybersecurity specialization
 
-Ain Shams University
+Egypt-Japan University of Science and Technology — Computer Networks and Cyber Security
 
-BSc Cyber Security
+Nile University — Cybersecurity-related education and research
 
-The American University in Cairo
+Egyptian E-Learning University — Computing and information security
 
-BS Computer Science with Cybersecurity specialization
+Future University in Egypt — Cybersecurity-related computing
 
-Egypt-Japan University of Science and Technology
+Arab Academy for Science, Technology & Maritime Transport — Cybersecurity-related study
 
-Computer Networks and Cyber Security
+Cairo University — Computer science and security research
 
-Nile University
+Useful Skills
 
-Cybersecurity and related computing research/programs
+Network Security SOC Digital Forensics Incident Response SIEM Cloud Security Risk Management
 
-Egyptian E-Learning University
-
-Computing and information-security related study
-
-Future University in Egypt
-
-Computer science and cybersecurity-related study
-
-Arab Academy for Science, Technology & Maritime Transport
-
-Cybersecurity and information-security related computing study
-
-Cairo University
-
-Computer science and information-security research/education
-
-Ain Shams University explicitly offers a BSc in Cyber Security, while the American University in Cairo offers a BS in Computer Science with a Cybersecurity specialization. Egypt-Japan University of Science and Technology lists Computer Networks and Cyber Security as an undergraduate program. citeturn1search8turn1search9turn1search10
-
-:india: India
+<img src="https://flagcdn.com/w40/in.png" width="24" alt="India"> India
 
 Cybersecurity Landscape
 
-India has a large cybersecurity ecosystem spanning IT services, banking, financial technology, telecommunications, government systems, cloud platforms, enterprise security, and security operations.
+India has a large and rapidly developing cybersecurity ecosystem spanning IT services, banking, financial technology, telecommunications, government systems, cloud platforms, enterprise security, and security operations.
 
-CERT-In is India's national agency for responding to computer security incidents and issuing cybersecurity guidance, advisories, vulnerability notes, and related information.
+CERT-In is India's national agency for responding to computer security incidents and publishing cybersecurity advisories and related guidance.
 
 Key Areas
 
@@ -588,36 +442,6 @@ Threat intelligence
 Digital forensics
 
 Security consulting
-
-Notable Companies & Organizations
-
-Tata Consultancy Services
-
-Infosys
-
-Wipro
-
-HCLTech
-
-Tech Mahindra
-
-Quick Heal
-
-Seqrite
-
-CloudSEK
-
-SecurEyes
-
-Safe Security
-
-CERT-In
-
-Data Security Council of India
-
-Useful Skills
-
-SOC SIEM Network Security Cloud Security Application Security Threat Intelligence Digital Forensics
 
 Major Cybersecurity Companies & Organizations
 
@@ -653,17 +477,17 @@ eSec Forte
 
 K7 Computing
 
-Palo Alto Networks India
+Palo Alto Networks
 
-CrowdStrike India
+CrowdStrike
 
-Microsoft India
+Microsoft
 
-Cisco India
+Cisco
 
-IBM India
+IBM
 
-Amazon Web Services India
+Amazon Web Services
 
 CERT-In
 
@@ -671,73 +495,43 @@ Data Security Council of India
 
 Cybersecurity-Focused Universities & Programs
 
-University / Institution
+Indian Institute of Technology Madras — Bachelor of Cybersecurity
 
-Cybersecurity-focused study
+Indian Institute of Technology Kanpur — Bachelor of Cybersecurity
 
-Indian Institute of Technology Madras
+Amrita Vishwa Vidyapeetham — B.Tech Computer Science and Engineering, Cyber Security
 
-Bachelor of Cybersecurity
+Vellore Institute of Technology — Cybersecurity-related programs and research
 
-Indian Institute of Technology Kanpur
+International Institute of Information Technology Hyderabad — Security and privacy research
 
-Bachelor of Cybersecurity
+International Institute of Information Technology Delhi — Cybersecurity and privacy research
 
-Amrita Vishwa Vidyapeetham
+Indian Institute of Technology Hyderabad — Cybersecurity-related research
 
-B.Tech CSE – Cyber Security
+Indian Institute of Technology Delhi — Information security research
 
-Vellore Institute of Technology
+Indian Institute of Technology Bombay — Security research
 
-Cybersecurity-related engineering programs and research
+Indian Institute of Science — Computer and systems security research
 
-International Institute of Information Technology Hyderabad
+National Institute of Technology Karnataka — Information security
 
-Security and privacy research
+Shiv Nadar University — Cybersecurity-related computing
 
-International Institute of Information Technology Delhi
+SRM Institute of Science and Technology — Cybersecurity engineering
 
-Cybersecurity and privacy research
+Manipal Institute of Technology — Cybersecurity-related education
 
-Indian Institute of Technology Hyderabad
+Useful Skills
 
-Cybersecurity-related research and computing
+SOC SIEM Network Security Cloud Security Application Security Threat Intelligence Digital Forensics
 
-Indian Institute of Technology Delhi
-
-Information security and cybersecurity research
-
-Indian Institute of Technology Bombay
-
-Cybersecurity and systems-security research
-
-Indian Institute of Science
-
-Computer and systems security research
-
-National Institute of Technology Karnataka
-
-Information security and cybersecurity-related study
-
-Shiv Nadar University
-
-Cybersecurity-related computing and research
-
-SRM Institute of Science and Technology
-
-Cybersecurity-focused engineering education
-
-Manipal Institute of Technology
-
-Cybersecurity-related engineering education
-
-IIT Madras and IIT Kanpur launched a practice-oriented four-year Bachelor of Cybersecurity program beginning in 2026; the program includes computer systems, Linux administration, cryptography, ethical hacking and other security-focused coursework. citeturn1search4 Amrita also offers a B.Tech in Computer Science and Engineering (Cyber Security). citeturn1search5
-
-:us: United States
+<img src="https://flagcdn.com/w40/us.png" width="24" alt="United States"> United States
 
 Cybersecurity Landscape
 
-The United States has a large cybersecurity ecosystem covering commercial security products, cloud infrastructure, defense, critical infrastructure, security research, threat intelligence, incident response, and government cybersecurity.
+The United States has one of the world's largest cybersecurity ecosystems, covering commercial security products, cloud infrastructure, defense, critical infrastructure, security research, threat intelligence, incident response, and government cybersecurity.
 
 Key Areas
 
@@ -762,38 +556,6 @@ Zero Trust
 Security research
 
 Cyber defense
-
-Notable Companies & Organizations
-
-Palo Alto Networks
-
-CrowdStrike
-
-Fortinet
-
-Cisco
-
-Microsoft
-
-Google
-
-Amazon Web Services
-
-Cloudflare
-
-Okta
-
-Mandiant
-
-SentinelOne
-
-CISA
-
-National Institute of Standards and Technology
-
-Useful Skills
-
-Cloud Security Threat Hunting Detection Engineering Identity Security Incident Response Zero Trust Security Engineering
 
 Major Cybersecurity Companies & Organizations
 
@@ -845,101 +607,57 @@ FBI Cyber Division
 
 Cybersecurity-Focused Universities & Programs
 
-The United States has a large network of cybersecurity academic programs. The National Centers of Academic Excellence in Cybersecurity program, managed by the NSA's National Cryptologic University with federal partners, recognises institutions offering cybersecurity education and specialised programs. citeturn1search6
+Carnegie Mellon University — Information Security
 
-University
+Georgia Institute of Technology — Cybersecurity
 
-Cybersecurity-focused study
+Purdue University — Cybersecurity
 
-Carnegie Mellon University
+University of Maryland, College Park — Cybersecurity
 
-Information security and cybersecurity
+University of Maryland, Baltimore County — Cybersecurity
 
-Georgia Institute of Technology
+Rochester Institute of Technology — Computing Security
 
-Cybersecurity and computing
+Syracuse University — Cybersecurity
 
-Purdue University
+George Mason University — Cybersecurity
 
-Cybersecurity and information assurance
+University of Texas at San Antonio — Cybersecurity
 
-University of Maryland, College Park
+Northeastern University — Cybersecurity
 
-Cybersecurity and information studies
+New York University — Cybersecurity
 
-University of Maryland, Baltimore County
+University of Arizona — Cyber Operations
 
-Cybersecurity
+University of Alabama at Birmingham — Cybersecurity
 
-Rochester Institute of Technology
+Iowa State University — Cybersecurity
 
-Computing security
+Stevens Institute of Technology — Cybersecurity
 
-Syracuse University
+Worcester Polytechnic Institute — Cybersecurity
 
-Cybersecurity and information assurance
+Pennsylvania State University — Cybersecurity
 
-George Mason University
+University of Pittsburgh — Cybersecurity
 
-Cybersecurity
+Virginia Tech — Cybersecurity
 
-University of Texas at San Antonio
+University of California, Davis — Computer Security
 
-Cybersecurity
+Useful Skills
 
-Northeastern University
+Cloud Security Threat Hunting Detection Engineering Identity Security Incident Response Zero Trust Security Engineering
 
-Cybersecurity
-
-New York University
-
-Cybersecurity
-
-University of Arizona
-
-Cyber operations and cybersecurity
-
-University of Alabama at Birmingham
-
-Cybersecurity
-
-Iowa State University
-
-Cybersecurity
-
-Stevens Institute of Technology
-
-Cybersecurity
-
-Worcester Polytechnic Institute
-
-Cybersecurity
-
-Penn State University
-
-Cybersecurity
-
-University of Pittsburgh
-
-Cybersecurity
-
-Virginia Tech
-
-Cybersecurity
-
-University of California, Davis
-
-Computer security and cybersecurity
-
-The federal NCAE-C framework includes Cyber Defense, Cyber Operations, and Cyber Research designations, covering associate, bachelor's and graduate education depending on the institution. citeturn1search6
-
-:kr: Korea
+<img src="https://flagcdn.com/w40/kr.png" width="24" alt="Korea"> Korea
 
 Cybersecurity Landscape
 
 Korea's cybersecurity ecosystem is closely connected to telecommunications, consumer technology, semiconductors, digital services, enterprise infrastructure, and national cyber defense.
 
-The Korea Internet & Security Agency (KISA) works across digital-threat prevention and response, vulnerability response, information security, and cyber threat analysis.
+The Korea Internet & Security Agency works across cybersecurity prevention and response, vulnerability response, information security, and cyber threat analysis.
 
 Key Areas
 
@@ -961,32 +679,6 @@ Industrial security
 
 Security certification
 
-Notable Companies & Organizations
-
-AhnLab
-
-SK Shieldus
-
-S2W
-
-ESTsecurity
-
-Samsung SDS
-
-LG CNS
-
-KT
-
-SK Telecom
-
-Korea Internet & Security Agency
-
-Korea Internet Security Center
-
-Useful Skills
-
-Network Security Endpoint Security Threat Intelligence Vulnerability Management SOC Cloud Security
-
 Major Cybersecurity Companies & Organizations
 
 AhnLab
@@ -1007,8 +699,6 @@ SK Telecom
 
 Hanwha Systems
 
-Hanwha S&C
-
 SecuLetter
 
 NSHC
@@ -1017,7 +707,7 @@ Penta Security
 
 Fasoo
 
-KISA
+Korea Internet & Security Agency
 
 Financial Security Institute
 
@@ -1025,57 +715,33 @@ National Intelligence Service
 
 Cybersecurity-Focused Universities & Programs
 
-University
+Korea University — Cybersecurity and Information Security
 
-Cybersecurity-focused study
+Ajou University — Department of Cyber Security
 
-Korea University
+KAIST — Security research and computer science
 
-Cybersecurity and information security
+Sungkyunkwan University — Cybersecurity-related computing
 
-Ajou University
+Hanyang University — Cybersecurity-related engineering
 
-Department of Cyber Security
+POSTECH — Security and systems research
 
-KAIST
+Yonsei University — Information security research
 
-Security research and computer science
+Kyung Hee University — Cybersecurity-related computing
 
-Sungkyunkwan University
+Soongsil University — Cybersecurity education and research
 
-Cybersecurity-related computing and research
+Sejong University — Cybersecurity-related computing
 
-Hanyang University
+Chungnam National University — Information security
 
-Cybersecurity-related engineering and research
+Useful Skills
 
-POSTECH
+Network Security Endpoint Security Threat Intelligence Vulnerability Management SOC Cloud Security
 
-Security and systems research
-
-Yonsei University
-
-Information security and computing research
-
-Kyung Hee University
-
-Cybersecurity-related computing
-
-Soongsil University
-
-Cybersecurity-related education and research
-
-Sejong University
-
-Cybersecurity-related computing
-
-Chungnam National University
-
-Information security-related education and research
-
-Ajou University has a dedicated Department of Cyber Security within its College of Computing and Informatics. Its published career information also identifies security companies, major technology companies, government institutions and research organisations as relevant employment areas. citeturn1search2turn1search3turn0search3
-
-:cn: China
+<img src="https://flagcdn.com/w40/cn.png" width="24" alt="China"> China
 
 Cybersecurity Landscape
 
@@ -1100,32 +766,6 @@ Security operations
 Vulnerability research
 
 Telecommunications security
-
-Notable Companies & Organizations
-
-Qi An Xin
-
-Venustech
-
-NSFOCUS
-
-Sangfor Technologies
-
-Huawei
-
-Tencent
-
-Alibaba Cloud
-
-360 Security
-
-China Electronics Technology Group Corporation
-
-National Computer Virus Emergency Response Center
-
-Useful Skills
-
-Network Security Cloud Security Data Security Threat Intelligence Vulnerability Research SOC Application Security
 
 Major Cybersecurity Companies & Organizations
 
@@ -1167,139 +807,113 @@ National Computer Network Emergency Response Technical Team / Coordination Cente
 
 Cybersecurity-Focused Universities & Programs
 
-University / Institution
+Tsinghua University — Cybersecurity and information security
 
-Cybersecurity-focused study
+University of Chinese Academy of Sciences — Cyber Security
 
-Tsinghua University
+Shanghai Jiao Tong University — Cybersecurity research
 
-Cybersecurity and information-security research
+University of Science and Technology of China — Information security
 
-University of Chinese Academy of Sciences
+Zhejiang University — Cybersecurity and systems research
 
-Undergraduate Cyber Security
+Beihang University — Cybersecurity
 
-Shanghai Jiao Tong University
+Xidian University — Cybersecurity and information security
 
-Cybersecurity-related computing and research
+Harbin Institute of Technology — Network and information security
 
-University of Science and Technology of China
+Beijing University of Posts and Telecommunications — Network security
 
-Information security and computer science research
+University of Electronic Science and Technology of China — Cybersecurity
 
-Zhejiang University
+Southeast University — Cybersecurity research
 
-Cybersecurity and systems research
+Wuhan University — Cyberspace security
 
-Beihang University
+Useful Skills
 
-Cybersecurity and information-security research
-
-Xidian University
-
-Cybersecurity and information security
-
-Harbin Institute of Technology
-
-Network and information security research
-
-Beijing University of Posts and Telecommunications
-
-Network security and telecommunications security
-
-University of Electronic Science and Technology of China
-
-Cybersecurity and information security
-
-Southeast University
-
-Cybersecurity-related research
-
-Wuhan University
-
-Cyberspace security and information security
-
-The University of Chinese Academy of Sciences publishes a dedicated undergraduate Cyber Security teaching plan covering computer science, mathematics, systems and security coursework. citeturn1search11
+Network Security Cloud Security Data Security Threat Intelligence Vulnerability Research SOC Application Security
 
 🔐 Major Fields of Cybersecurity
 
 Field
 
-What It Covers
+Focus
 
 Network Security
 
-Protecting networks, traffic, protocols, and infrastructure
+Networks, traffic, protocols, segmentation, firewalls
 
 Application Security
 
-Securing software, APIs, web applications, and development processes
+Software, APIs, web applications, secure development
 
 Cloud Security
 
-Protecting cloud workloads, identities, configurations, and data
+Cloud workloads, IAM, configurations, data and infrastructure
 
 SOC & SIEM
 
-Monitoring, detection, alert triage, investigation, and response
+Monitoring, detection, alert triage and investigation
 
 Threat Intelligence
 
-Collecting and analyzing information about cyber threats
+Threat actors, indicators, campaigns and intelligence analysis
 
 Digital Forensics
 
-Investigating systems and digital evidence after incidents
+Collection and analysis of digital evidence
 
 Incident Response
 
-Detecting, containing, investigating, and recovering from attacks
+Detection, containment, investigation and recovery
 
 Penetration Testing
 
-Authorized security testing of systems and applications
+Authorized security testing
 
 Identity & Access Management
 
-Managing identities, authentication, authorization, and privileges
+Authentication, authorization and privileges
 
 DevSecOps
 
-Integrating security into software development and operations
+Security integrated into development and operations
 
 Container Security
 
-Securing Docker, Kubernetes, images, workloads, and clusters
+Docker, Kubernetes, images and workloads
 
 AI Security
 
-Securing AI models, applications, agents, data, and infrastructure
+AI models, applications, agents and data
 
 IoT Security
 
-Protecting connected devices and embedded systems
+Connected devices and embedded systems
 
 OT/ICS Security
 
-Protecting industrial control and operational technology
+Industrial control and operational technology
 
-Governance, Risk & Compliance
+GRC
 
-Managing security requirements, risk, policies, and controls
+Governance, risk, compliance and security controls
 
 🎓 BS in Cybersecurity
 
-BS in Cybersecurity is a four-year undergraduate pathway designed to build foundations in computing and progressively develop practical cybersecurity capabilities.
+BS in Cybersecurity is a four-year undergraduate pathway designed to combine computing fundamentals with practical cybersecurity education.
 
-A strong program combines:
+A strong BS in Cybersecurity program should develop knowledge across:
 
-Computer science fundamentals
+Computer science
+
+Programming
 
 Networking
 
 Operating systems
-
-Programming
 
 Databases
 
@@ -1307,7 +921,7 @@ Cryptography
 
 Network security
 
-Secure software development
+Secure programming
 
 Ethical hacking
 
@@ -1327,7 +941,31 @@ AI security
 
 Cybersecurity governance
 
-📚 Core Curriculum
+Program Model
+
+Computing Foundations
+        ↓
+Networking + Operating Systems
+        ↓
+Security Fundamentals
+        ↓
+Offensive + Defensive Security
+        ↓
+SOC + Incident Response
+        ↓
+Cloud + Application Security
+        ↓
+DevSecOps + Container Security
+        ↓
+AI + Emerging Security
+        ↓
+Internship
+        ↓
+Capstone
+        ↓
+Cybersecurity Career
+
+📚 Four-Year Curriculum
 
 Year 1 — Computing Foundations
 
@@ -1409,19 +1047,19 @@ Security Engineering
 
 Advanced Cloud Security
 
-Cybersecurity Governance
-
 Privacy & Data Protection
+
+Cybersecurity Governance
 
 Internship
 
-Research / Technical Electives
+Technical Electives
 
 Capstone Project
 
 🧪 Practical Learning
 
-A cybersecurity education should include practical environments alongside theory.
+Cybersecurity education should combine theory with controlled practical environments.
 
 Recommended Labs
 
@@ -1449,55 +1087,33 @@ Kubernetes security lab
 
 Threat detection lab
 
-Example Lab Stack
+Example SOC Lab
 
 Kali Linux
-    ↓
-Nmap / Wireshark / Burp Suite
-    ↓
-Windows + Linux Endpoints
-    ↓
-Wazuh / Splunk
-    ↓
-Suricata
-    ↓
-Incident Detection & Investigation
+     │
+     │ Authorized Testing
+     ▼
+Windows Endpoint ─────── Ubuntu Server
+     │                       │
+     │                       ▼
+     └──────────────► Wazuh Manager
+                             │
+                             ▼
+                        SIEM Dashboard
+                             │
+                             ▼
+                    Alert Investigation
+                             │
+                             ▼
+                       Incident Report
 
-🎓 University Directory
-
-The university lists in each country section focus on institutions with dedicated cybersecurity degrees, security-focused pathways, recognised cybersecurity education, or substantial cybersecurity research. Program names and availability can change, so prospective students should verify the current university catalogue before applying.
-
-What to Look For
-
-Dedicated BS in Cybersecurity or equivalent undergraduate degree
-
-Cybersecurity / Information Security major
-
-Cyber defense and cyber operations programs
-
-Digital forensics
-
-Network and systems security
-
-Application and cloud security
-
-Security research centres
-
-Industry placements and internships
-
-Security laboratories
-
-Capture-the-Flag and practical training opportunities
-
-Government or industry-recognised cybersecurity programmes
+Only test systems and environments for which you have explicit authorization.
 
 🏢 Cybersecurity Companies
 
-The seven-country ecosystem includes security vendors, consulting companies, telecommunications providers, cloud platforms, technology companies, defense organizations, specialized cybersecurity firms, and universities with dedicated cybersecurity education or research.
+The company directory focuses on major and nationally or internationally visible organizations with significant cybersecurity relevance.
 
-Scope note: The lists below focus on major, nationally or internationally visible companies and organizations with substantial cybersecurity relevance. They are representative rather than an exhaustive list of every cybersecurity employer in each country.
-
-:gb: United Kingdom
+United Kingdom
 
 BAE Systems
 
@@ -1507,13 +1123,19 @@ Sophos
 
 NCC Group
 
+QinetiQ
+
 BT
 
 Vodafone
 
 Thales
 
-:sg: Singapore
+Leonardo
+
+Airbus CyberSecurity
+
+Singapore
 
 ST Engineering
 
@@ -1527,7 +1149,9 @@ Singtel
 
 NCS
 
-:eg: Egypt
+Acronis
+
+Egypt
 
 Telecom Egypt
 
@@ -1537,11 +1161,15 @@ Orange Egypt
 
 Vodafone Egypt
 
-IBM Egypt
+IBM
 
-Microsoft Egypt
+Microsoft
 
-:india: India
+Cisco
+
+Huawei
+
+India
 
 Tata Consultancy Services
 
@@ -1553,15 +1181,23 @@ HCLTech
 
 Tech Mahindra
 
+LTIMindtree
+
 Quick Heal
+
+Seqrite
 
 CloudSEK
 
-SecurEyes
-
 Safe Security
 
-:us: United States
+SecurEyes
+
+TAC Security
+
+K7 Computing
+
+United States
 
 Palo Alto Networks
 
@@ -1575,15 +1211,33 @@ Microsoft
 
 Google
 
+Amazon Web Services
+
 Cloudflare
 
 Okta
 
-SentinelOne
-
 Mandiant
 
-:kr: Korea
+SentinelOne
+
+Proofpoint
+
+Zscaler
+
+Splunk
+
+Tenable
+
+Rapid7
+
+Qualys
+
+CyberArk
+
+Recorded Future
+
+Korea
 
 AhnLab
 
@@ -1601,7 +1255,15 @@ KT
 
 SK Telecom
 
-:cn: China
+Hanwha Systems
+
+Penta Security
+
+NSHC
+
+Fasoo
+
+China
 
 Qi An Xin
 
@@ -1619,23 +1281,100 @@ Alibaba Cloud
 
 360 Security
 
+Topsec
+
+DBAPPSecurity
+
+Anheng Information
+
+Westone
+
+🎓 University Directory
+
+University selection should consider the presence of dedicated cybersecurity degrees, cybersecurity specializations, security research, practical laboratories, internships, and industry connections.
+
+What to Look For
+
+Dedicated BS in Cybersecurity
+
+Cybersecurity / Information Security major
+
+Cyber defense and cyber operations
+
+Digital forensics
+
+Network and systems security
+
+Application security
+
+Cloud security
+
+Security research centers
+
+Industry placements
+
+Security laboratories
+
+Capture-the-Flag activities
+
+Government or industry-recognized programs
+
+The university lists above are representative rather than exhaustive. Program names, curricula, admission requirements, and availability can change.
+
 👨‍💻 Career Paths
 
-Cybersecurity Student
-        │
-        ├── SOC Analyst
-        ├── Security Analyst
-        ├── Security Engineer
-        ├── Cloud Security Engineer
-        ├── Penetration Tester
-        ├── Application Security Engineer
-        ├── Incident Responder
-        ├── Digital Forensics Analyst
-        ├── Threat Intelligence Analyst
-        ├── Detection Engineer
-        ├── DevSecOps Engineer
-        ├── Security Architect
-        └── Security Researcher
+                 Cybersecurity Student
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       Defensive      Offensive      Engineering
+          │              │              │
+      SOC Analyst    Pentester       Security Engineer
+      Security       Red Team        Cloud Security
+      Analyst        AppSec          DevSecOps
+      Detection      Security        Security Architect
+      Engineer       Research
+          │
+          └──────────────┬──────────────┘
+                         │
+                 Advanced Security
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+   Threat Intel      Incident Response   DFIR
+   Security Research Security Architect  GRC
+
+Common Roles
+
+SOC Analyst
+
+Security Analyst
+
+Security Engineer
+
+Detection Engineer
+
+Threat Intelligence Analyst
+
+Incident Responder
+
+Digital Forensics Analyst
+
+Penetration Tester
+
+Application Security Engineer
+
+Cloud Security Engineer
+
+DevSecOps Engineer
+
+Security Architect
+
+Malware Analyst
+
+Security Researcher
+
+Governance, Risk & Compliance Analyst
 
 🧰 Tools & Technologies
 
@@ -1663,7 +1402,7 @@ Microsoft Sentinel
 
 Elastic Security
 
-QRadar
+IBM QRadar
 
 Network Detection
 
@@ -1679,9 +1418,9 @@ Kali Linux
 
 Ubuntu
 
-Windows
-
 Debian
+
+Windows
 
 Cloud
 
@@ -1713,7 +1452,7 @@ SQL
 
 ☁️ Cloud, DevSecOps & Container Security
 
-Modern cybersecurity increasingly requires security knowledge across development, infrastructure, and cloud environments.
+Modern cybersecurity requires security knowledge across development, infrastructure, cloud, and runtime environments.
 
 Core Areas
 
@@ -1743,43 +1482,47 @@ Software supply-chain security
 
 Runtime security
 
-Example Stack
+Example Security Pipeline
 
-GitHub
-  ↓
-CI/CD
-  ↓
-Security Scanning
-  ↓
-Docker
-  ↓
+Developer
+   ↓
+Git Repository
+   ↓
+CI/CD Pipeline
+   ↓
+SAST / SCA / Secret Scanning
+   ↓
+Container Build
+   ↓
+Image Security Scan
+   ↓
 Kubernetes
-  ↓
+   ↓
 Cloud Infrastructure
-  ↓
+   ↓
 Monitoring + Detection
 
 🤖 AI & Cybersecurity
 
-AI is creating new security opportunities as well as new attack and defense challenges.
+AI is becoming increasingly relevant to both defensive security and the security of AI-powered systems.
 
 Security Applications
 
-Security alert enrichment
+Alert enrichment
 
 Threat intelligence analysis
 
-Malware classification
+Log analysis
 
 Anomaly detection
 
+Malware classification
+
 Phishing detection
 
-Log analysis
+Vulnerability prioritization
 
 Security automation
-
-Vulnerability prioritization
 
 Incident investigation assistance
 
@@ -1799,13 +1542,13 @@ AI agent security
 
 Adversarial machine learning
 
-AI-assisted vulnerability exploitation
-
 Secure AI deployment
+
+AI-assisted security operations
 
 📜 Certifications
 
-Certifications can complement academic study and practical projects.
+Certifications can complement academic education and practical projects.
 
 Foundation
 
@@ -1833,13 +1576,13 @@ Microsoft security certifications
 
 Google Cloud security certifications
 
-Certification requirements, names, and exam structures can change. Always verify current details with the issuing organization.
+Certification names, requirements, and exam structures can change. Always verify current information with the issuing organization.
 
 💼 Internship & Capstone
 
 Internship
 
-A cybersecurity internship can provide exposure to:
+A cybersecurity internship can provide practical exposure to:
 
 SOC operations
 
@@ -1857,15 +1600,15 @@ Threat intelligence
 
 Governance and compliance
 
+Security engineering
+
 Capstone
 
 A strong capstone should solve a realistic security problem and demonstrate:
 
-Clear threat model
+Threat model
 
-Technical architecture
-
-Security controls
+Security architecture
 
 Implementation
 
@@ -1906,34 +1649,34 @@ Threat Intelligence Dashboard
 🚀 Learning Roadmap
 
 01  Computer Fundamentals
-        ↓
+          ↓
 02  Linux + Networking
-        ↓
+          ↓
 03  Python + Scripting
-        ↓
+          ↓
 04  Cybersecurity Fundamentals
-        ↓
+          ↓
 05  Network Security
-        ↓
-06  Web & Application Security
-        ↓
+          ↓
+06  Web + Application Security
+          ↓
 07  SOC + SIEM
-        ↓
+          ↓
 08  Incident Response + Forensics
-        ↓
+          ↓
 09  Cloud Security
-        ↓
+          ↓
 10  DevSecOps + Kubernetes Security
-        ↓
+          ↓
 11  AI + Cybersecurity
-        ↓
+          ↓
 12  Internship + Capstone
-        ↓
+          ↓
 13  Cybersecurity Career
 
 🌱 Future of Cybersecurity
 
-Key areas shaping the next generation of cybersecurity include:
+Important areas shaping the next generation of cybersecurity include:
 
 Artificial intelligence security
 
@@ -1965,38 +1708,13 @@ Cyber resilience
 
 Security automation
 
-🌐 Cybersecurity Ecosystem Model
-
-                    CYBERSECURITY
-                         │
-       ┌─────────────────┼─────────────────┐
-       │                 │                 │
-    Education         Industry          Government
-       │                 │                 │
-   BS in Cyber       Security Firms      CERTs
-   Certifications    Cloud Providers     Cyber Agencies
-   Universities      Consultancies       Standards
-       │                 │                 │
-       └─────────────────┼─────────────────┘
-                         │
-                  Cybersecurity Skills
-                         │
-       ┌─────────────────┼─────────────────┐
-       │                 │                 │
-    Technical         Operational       Strategic
-       │                 │                 │
-   Networking          SOC             Governance
-   Cloud               IR              Risk
-   Coding              DFIR            Compliance
-   Security Testing    Detection       Policy
-
 📊 Seven-Country Comparison Framework
 
-This repository uses the same dimensions for every country:
+This repository intentionally avoids ranking the seven countries. Instead, it uses consistent dimensions to understand each ecosystem.
 
 Dimension
 
-Focus
+What It Examines
 
 National Cybersecurity
 
@@ -2004,35 +1722,33 @@ Government-level cyber capabilities and resilience
 
 Industry
 
-Security vendors, technology companies, consulting, and services
+Security vendors, technology companies and consulting
 
 Critical Sectors
 
-Finance, telecom, energy, healthcare, government, and infrastructure
+Finance, telecom, energy, healthcare and infrastructure
 
 Education
 
-Universities, training, certifications, and skills
+Universities, degrees and training
 
 Workforce
 
-Security roles and professional development
+Cybersecurity roles and professional development
 
 Technology
 
-Cloud, AI, SOC, SIEM, network, application, and infrastructure security
+Cloud, AI, SOC, SIEM and infrastructure security
 
 Research
 
-Security research, threat intelligence, and innovation
+Security research and innovation
 
 Regulation
 
-Cybersecurity, privacy, data, and technology requirements
+Cybersecurity, privacy and data requirements
 
-📚 Recommended Knowledge Areas
-
-A well-rounded cybersecurity learner should understand:
+🧠 Essential Knowledge Areas
 
 Computing
 
@@ -2100,11 +1816,52 @@ APIs
 
 Microservices
 
+🗺️ Suggested Repository Structure
+
+Cybersecurity-Across-7-Countries/
+│
+├── README.md
+│
+├── countries/
+│   ├── united-kingdom/
+│   ├── singapore/
+│   ├── egypt/
+│   ├── india/
+│   ├── united-states/
+│   ├── korea/
+│   └── china/
+│
+├── education/
+│   ├── bs-in-cybersecurity/
+│   ├── curriculum/
+│   ├── certifications/
+│   └── career-paths/
+│
+├── labs/
+│   ├── soc/
+│   ├── network-security/
+│   ├── cloud-security/
+│   ├── web-security/
+│   └── kubernetes-security/
+│
+├── technologies/
+│   ├── siem/
+│   ├── cloud/
+│   ├── devsecops/
+│   ├── ai-security/
+│   └── threat-intelligence/
+│
+└── resources/
+    ├── books/
+    ├── courses/
+    ├── standards/
+    └── research/
+
 🤝 Contributing
 
 Contributions are welcome.
 
-You can contribute by:
+You can contribute by
 
 Adding verified cybersecurity organizations
 
@@ -2112,41 +1869,71 @@ Improving country sections
 
 Updating company information
 
+Adding cybersecurity universities
+
 Adding educational resources
 
 Improving technical explanations
 
 Adding practical labs
 
-Fixing documentation issues
+Fixing documentation
 
 Updating outdated information
 
+Contribution Process
+
+Fork
+  ↓
+Create Branch
+  ↓
+Make Changes
+  ↓
+Verify Sources
+  ↓
+Update Documentation
+  ↓
+Pull Request
+  ↓
+Review
+
 Contribution Guidelines
 
-Fork the repository.
+Keep information factual and verifiable.
 
-Create a feature branch.
+Prefer official sources.
 
-Make your changes.
+Keep country sections consistent.
 
-Verify factual information.
+Do not add unauthorized or harmful operational content.
 
-Keep formatting consistent.
+Keep Markdown formatting clean.
 
-Submit a pull request.
+Update outdated information when discovered.
+
+🔒 Responsible Security
+
+Cybersecurity knowledge should be applied responsibly.
+
+Only perform security testing, vulnerability scanning, exploitation, traffic interception, password testing, or other security activities against systems for which you have explicit authorization.
+
+Use controlled labs, intentionally vulnerable applications, CTF environments, and systems you own or are authorized to test.
 
 ⭐ Project Goals
 
-Build a structured cybersecurity knowledge base.
+Build a structured global cybersecurity knowledge base.
 
 Connect cybersecurity education with industry requirements.
 
-Provide a seven-country cybersecurity reference.
+Document seven major cybersecurity ecosystems.
 
-Encourage practical security learning.
+Provide a practical BS in Cybersecurity framework.
 
-Highlight modern security technologies.
+Highlight cybersecurity companies and universities.
+
+Encourage hands-on security learning.
+
+Cover modern technologies such as cloud, Kubernetes, DevSecOps and AI.
 
 Help learners understand cybersecurity career pathways.
 
@@ -2154,46 +1941,56 @@ Help learners understand cybersecurity career pathways.
 
 This repository is intended for educational and informational purposes.
 
-Company and organization lists are illustrative and may change over time. Inclusion does not imply endorsement, partnership, certification, or employment affiliation.
+Company and university lists are representative and are not intended to be exhaustive. Inclusion does not imply endorsement, partnership, certification, employment affiliation, or institutional ranking.
 
-Cybersecurity tools and techniques should only be used on systems and environments where you have explicit authorization.
+University programs, company offerings, certifications, regulations, and organizational structures may change. Verify current information directly with the relevant organization before making academic, professional, or business decisions.
 
 📖 References
 
-:gb: United Kingdom
+<img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom
 
 National Cyber Security Centre — https://www.ncsc.gov.uk/
 
-:sg: Singapore
+<img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore
 
 Cyber Security Agency of Singapore — https://www.csa.gov.sg/
 
-:eg: Egypt
+GovTech Singapore — https://www.tech.gov.sg/
+
+<img src="https://flagcdn.com/w40/eg.png" width="24" alt="Egypt"> Egypt
 
 Ministry of Communications and Information Technology — https://mcit.gov.eg/
 
-:india: India
+ITIDA — https://itida.gov.eg/
+
+<img src="https://flagcdn.com/w40/in.png" width="24" alt="India"> India
 
 Indian Computer Emergency Response Team — https://www.cert-in.org.in/
 
 Data Security Council of India — https://www.dsci.in/
 
-:us: United States
+<img src="https://flagcdn.com/w40/us.png" width="24" alt="United States"> United States
 
 Cybersecurity and Infrastructure Security Agency — https://www.cisa.gov/
 
 National Institute of Standards and Technology — https://www.nist.gov/
 
-:kr: Korea
+National Centers of Academic Excellence in Cybersecurity — https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/
+
+<img src="https://flagcdn.com/w40/kr.png" width="24" alt="Korea"> Korea
 
 Korea Internet & Security Agency — https://www.kisa.or.kr/
 
-:cn: China
+<img src="https://flagcdn.com/w40/cn.png" width="24" alt="China"> China
 
 Cyberspace Administration of China — https://www.cac.gov.cn/
 
 <p align="center">
   <strong>🔐 Learn. Build. Defend. Secure the Digital Future.</strong>
+</p>
+
+<p align="center">
+  <img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom • <img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore • <img src="https://flagcdn.com/w40/eg.png" width="24" alt="Egypt"> Egypt • <img src="https://flagcdn.com/w40/in.png" width="24" alt="India"> India • <img src="https://flagcdn.com/w40/us.png" width="24" alt="United States"> United States • <img src="https://flagcdn.com/w40/kr.png" width="24" alt="Korea"> Korea • <img src="https://flagcdn.com/w40/cn.png" width="24" alt="China"> China
 </p>
 
 <p align="center">
