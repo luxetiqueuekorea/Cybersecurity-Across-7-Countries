@@ -5,20 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> United Kingdom &nbsp;•&nbsp;
-  <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> Singapore &nbsp;•&nbsp;
-  <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> Egypt &nbsp;•&nbsp;
-  <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> India &nbsp;•&nbsp;
-  <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> United States &nbsp;•&nbsp;
-  <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> Korea &nbsp;•&nbsp;
-  <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> China
-</p>
-
-<p align="center">
-  <strong>Cybersecurity • Education • Industry • Research • Careers</strong>
-</p>
-
-<p align="center">
   <img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom
   &nbsp;•&nbsp;
   <img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore
