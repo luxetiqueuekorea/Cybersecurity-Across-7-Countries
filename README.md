@@ -35,8 +35,6 @@
 **Technology** → [Security Stack](#-security-technology-stack) · [Cloud / DevSecOps](#-cloud--devsecops--kubernetes) · [AI Security](#-ai--cybersecurity)  
 **Career** → [Careers](#-cybersecurity-careers) · [Projects](#-projects--capstone) · [Roadmap](#-learning-roadmap) · [Certifications](#-certifications)
 
----
-
 ## 📌 About
 
 ## 🧭 How to Use This Repository
@@ -45,8 +43,6 @@
 **Job seekers** → use the career, tools, projects, and company sections.  
 **Researchers** → use the country, university, technology, and reference sections.  
 **Educators** → use the curriculum and practical-lab framework.
-
-
 
 This repository brings together the **cybersecurity ecosystems of seven countries** in one place.
 
@@ -61,8 +57,6 @@ It focuses on:
 
 **Countries covered:** United Kingdom, Singapore, Egypt, India, United States, Korea, and China.
 
----
-
 ## 🌍 Countries at a Glance
 
 | Country | Main cybersecurity themes |
@@ -75,8 +69,6 @@ It focuses on:
 | <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> **Korea** | Enterprise • telecom • finance • mobile • research |
 | <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> **China** | Cloud • telecom • platforms • enterprise • research |
 
----
-
 ## 🔎 Country Cybersecurity Snapshot
 
 | Country | Key sectors | Common security focus |
@@ -88,8 +80,6 @@ It focuses on:
 | <img src="https://flagcdn.com/w40/us.png" width="22"> **United States** | Technology • Defense • Finance • Healthcare • Cloud | Security platforms • zero trust • cloud • detection • research |
 | <img src="https://flagcdn.com/w40/kr.png" width="22"> **Korea** | Electronics • Telecom • Finance • Manufacturing • Technology | Endpoint security • mobile • enterprise security • cyber research |
 | <img src="https://flagcdn.com/w40/cn.png" width="22"> **China** | Technology • Telecom • Manufacturing • Cloud • Digital platforms | Network security • platform security • cloud • enterprise defense |
-
----
 
 # 🏢 Cybersecurity Companies & 🎓 Universities
 
@@ -278,10 +268,7 @@ It focuses on:
 
 </details>
 
-
 > **Important:** These are representative major organizations and cybersecurity-focused academic programs, not an exhaustive directory. Program names, availability, and company portfolios can change.
-
----
 
 ## 🎓 How to Choose a Cybersecurity College
 
@@ -299,8 +286,6 @@ Look beyond the course title. A strong cybersecurity program should provide seve
 | 🧑‍💻 **Portfolio support** | Capstone work that can be documented publicly |
 
 > A cybersecurity degree is strongest when **theory, labs, projects, and industry exposure** reinforce one another.
-
----
 
 # 🎓 BS in Cybersecurity
 
@@ -381,8 +366,6 @@ By graduation, a learner should be comfortable with:
 
 `Linux` `Windows` `Nmap` `Wireshark` `Burp Suite` `Wazuh` `Splunk` `Suricata` `Docker` `Kubernetes` `AWS`
 
----
-
 ## 🔄 Cybersecurity Lifecycle
 
 ```text
@@ -403,8 +386,6 @@ Improve
 
 This repository connects these stages to **education, tools, labs, careers, and real-world security practice**.
 
----
-
 # 🧭 Major Cybersecurity Fields
 
 | Field | Focus |
@@ -422,8 +403,6 @@ This repository connects these stages to **education, tools, labs, careers, and 
 | 🤖 AI Security | AI applications, models, agents, adversarial ML |
 | 📋 GRC | Governance, risk, compliance, policy |
 
----
-
 # 🛠️ Security Technology Stack
 
 | Category | Tools / Technologies |
@@ -436,8 +415,6 @@ This repository connects these stages to **education, tools, labs, careers, and 
 | **Containers** | Docker • Kubernetes • Terraform |
 | **Systems** | Kali Linux • Ubuntu • Debian • Windows |
 | **Programming** | Python • C++ • JavaScript • Bash • SQL |
-
----
 
 ## 🔧 What to Learn in Each Layer
 
@@ -492,8 +469,6 @@ Detection & Response
 
 **Learn:** IAM • secrets • encryption • logging • network security • RBAC • network policies • image security • supply-chain security.
 
----
-
 # 🤖 AI + Cybersecurity
 
 ### AI for Security
@@ -515,8 +490,6 @@ Detection & Response
 - Model supply chain
 - Adversarial machine learning
 
----
-
 # 💼 Cybersecurity Careers
 
 | Role | Core work |
@@ -534,8 +507,6 @@ Detection & Response
 | DevSecOps Engineer | Security automation & CI/CD |
 | Security Architect | Enterprise security design |
 | GRC Analyst | Governance, risk & compliance |
-
----
 
 # 🧪 Projects & Capstone
 
@@ -555,8 +526,6 @@ A strong cybersecurity portfolio can include:
 ### Capstone checklist
 
 `Threat Model` → `Architecture` → `Implementation` → `Testing` → `Detection` → `Results` → `Documentation`
-
----
 
 ## 📂 Portfolio Progression
 
@@ -610,8 +579,6 @@ A strong project should show **the problem, architecture, implementation, securi
 12  Capstone + Career
 ```
 
----
-
 ## 🎯 What to Build Along the Roadmap
 
 | Stage | Suggested output |
@@ -638,8 +605,6 @@ A professional cybersecurity project should make five things obvious:
 
 > A clean README, architecture diagram, setup steps, test results, and lessons learned can make a small project much easier to evaluate.
 
----
-
 # 🏆 Certifications
 
 **Foundation**
@@ -656,13 +621,9 @@ A professional cybersecurity project should make five things obvious:
 
 > Always check the issuing organization's current certification requirements and exam policies.
 
----
-
 # 🚀 Emerging Areas
 
 `AI Agent Security` · `Autonomous SecOps` · `Zero Trust` · `Post-Quantum Cryptography` · `Software Supply Chain Security` · `Cloud-Native Security` · `Kubernetes Security` · `IoT Security` · `OT/ICS Security` · `Privacy Engineering` · `Digital Identity` · `Cyber Resilience`
-
----
 
 # 🧩 Suggested Repository Structure
 
@@ -697,8 +658,6 @@ Cybersecurity-Across-7-Countries/
     └── research/
 ```
 
----
-
 # 🤝 Contributions
 
 Contributions are welcome.
@@ -717,8 +676,6 @@ Contributions are welcome.
 
 `Fork` → `Branch` → `Update` → `Verify Sources` → `Pull Request`
 
----
-
 # ⚠️ Responsible Security
 
 Use security tools only on systems you own or have **explicit authorization** to test.
@@ -726,8 +683,6 @@ Use security tools only on systems you own or have **explicit authorization** to
 For practical work, use:
 
 `CTFs` · `Home Labs` · `Virtual Machines` · `Cloud Test Environments` · `Authorized Programs`
-
----
 
 # 📚 Official Starting Points
 
@@ -740,8 +695,6 @@ For practical work, use:
 | <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> United States | [CISA](https://www.cisa.gov/) • [NIST](https://www.nist.gov/) |
 | <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> Korea | [KISA](https://www.kisa.or.kr/) |
 | <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> China | [CAC](https://www.cac.gov.cn/) |
-
----
 
 ### 🧱 Security Frameworks & Standards
 
@@ -763,8 +716,6 @@ For practical work, use:
 - The UK section can be cross-checked against the NCSC's certified-degree directory; for example, NCSC currently lists certified undergraduate programs at Abertay and Warwick. citeturn0search0turn0search2
 - India now has dedicated undergraduate **Bachelor's in Cybersecurity / B.Cyber.** programs at IIT Madras and IIT Kanpur, with the programs beginning in the 2026–27 academic cycle. citeturn0search1turn0search11
 - Singapore's CSA and NUS jointly operate the CyberSG Talent, Innovation and Growth Collaboration Centre, connecting government, academia, and industry around cybersecurity talent and innovation. citeturn0search5
-
----
 
 <p align="center">
   <strong>🔐 Learn • Build • Detect • Defend</strong>
