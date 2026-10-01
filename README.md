@@ -1,342 +1,674 @@
 # 🔐 Cybersecurity Across 7 Countries
 
 <p align="center">
-  <strong>A compact global guide to cybersecurity education, industry, careers, and modern security technologies.</strong>
+  <strong>A practical global reference for cybersecurity industry, education, careers, and technology.</strong>
 </p>
 
 <p align="center">
-  <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> • <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> • <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> • <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> • <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> • <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> • <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag">
+  <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> United Kingdom &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> Singapore &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> Egypt &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> India &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> United States &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> Korea &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> China
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Global-0A66C2?style=for-the-badge" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Countries-7-111827?style=for-the-badge" alt="7 Countries">
-  <img src="https://img.shields.io/badge/Education-BS%20in%20Cybersecurity-16A34A?style=for-the-badge" alt="BS in Cybersecurity">
-  <img src="https://img.shields.io/badge/Cloud--Native-Security-7C3AED?style=for-the-badge" alt="Cloud Native Security">
+<img src="https://img.shields.io/badge/Cybersecurity-7%20Countries-0A66C2?style=for-the-badge" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/Industry-Education-16A34A?style=for-the-badge" alt="Industry and Education">
+<img src="https://img.shields.io/badge/Cloud-DevSecOps-7C3AED?style=for-the-badge" alt="Cloud and DevSecOps">
+<img src="https://img.shields.io/badge/AI-Security-DC2626?style=for-the-badge" alt="AI Security">
 </p>
 
-> **Learn → Build → Detect → Defend → Secure**
+> **Learn. Build. Detect. Defend.**
+
+## 🧭 Quick Navigation
+
+**Countries** → [United Kingdom](#-united-kingdom) · [Singapore](#-singapore) · [Egypt](#-egypt) · [India](#-india) · [United States](#-united-states) · [Korea](#-korea) · [China](#-china)  
+**Education** → [BS in Cybersecurity](#-bs-in-cybersecurity) · [Major Fields](#-major-cybersecurity-fields)  
+**Technology** → [Security Stack](#-security-technology-stack) · [Cloud / DevSecOps](#-cloud--devsecops--kubernetes) · [AI Security](#-ai--cybersecurity)  
+**Career** → [Careers](#-cybersecurity-careers) · [Projects](#-projects--capstone) · [Roadmap](#-learning-roadmap) · [Certifications](#-certifications)
 
 ---
 
-## ✦ What This Repository Covers
-
-| Area | What you'll find |
-|---|---|
-| 🌍 **7 Cybersecurity Ecosystems** | Industry, education, organizations, and focus areas |
-| 🎓 **Education** | BS in Cybersecurity, curriculum, labs, and learning paths |
-| 🛡️ **Security Operations** | SOC, SIEM, detection, threat intelligence, incident response |
-| ☁️ **Modern Security** | Cloud, DevSecOps, Docker, Kubernetes, Zero Trust |
-| 🤖 **AI Security** | AI-assisted SecOps, AI application security, adversarial ML |
-| 💼 **Careers** | Security analyst, engineer, SOC, cloud, AppSec, GRC and more |
-| 🧪 **Hands-on Learning** | Labs, projects, CTFs, internships, and capstones |
 
 ---
 
-## 🌐 Seven-Country Focus
+## 📌 About
 
-| Country | Cybersecurity landscape |
-|---|---|
-| <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> **United Kingdom** | National cyber resilience, defense, critical infrastructure, financial services, threat intelligence, and security research. |
-| <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> **Singapore** | Government-led cyber resilience, critical information infrastructure, cloud security, financial services, and regional security operations. |
-| <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> **Egypt** | Telecom security, digital infrastructure, government services, enterprise security, and cybersecurity workforce development. |
-| <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> **India** | Large-scale IT services, digital public infrastructure, cloud adoption, SOC operations, application security, and cyber defense. |
-| <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> **United States** | Security technology, cloud platforms, defense, critical infrastructure, threat intelligence, incident response, and security research. |
-| <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> **Korea** | Enterprise security, telecom, mobile ecosystems, financial security, security research, and national cyber defense. |
-| <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> **China** | Cloud and platform security, telecom, enterprise defense, security research, network protection, and cyber resilience. |
+## 🧭 How to Use This Repository
 
-> **Note:** This repository is a reference and learning guide, **not a ranking**. Company and university lists are representative.
+**Students** → start with the BS in Cybersecurity pathway and learning roadmap.  
+**Job seekers** → use the career, tools, projects, and company sections.  
+**Researchers** → use the country, university, technology, and reference sections.  
+**Educators** → use the curriculum and practical-lab framework.
 
----
 
-# 🌍 Cybersecurity by Country
 
-<details>
-<summary><strong><img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> United Kingdom</strong></summary>
+This repository brings together the **cybersecurity ecosystems of seven countries** in one place.
 
-**Companies & organizations:**  
-BAE Systems • Darktrace • Sophos • NCC Group • QinetiQ • BT • Thales • Leonardo • NCSC
+It focuses on:
 
-**Universities / programs:**  
-Abertay University • University of Warwick • Royal Holloway, University of London • University of Southampton • University of Birmingham
-
-</details>
-<details>
-<summary><strong><img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> Singapore</strong></summary>
-
-**Companies & organizations:**  
-ST Engineering • Ensign InfoSecurity • Horangi • Singtel • NCS • GovTech • CSA Singapore
-
-**Universities / programs:**  
-National University of Singapore • Nanyang Technological University • Singapore Institute of Technology • Singapore University of Technology and Design
-
-</details>
-<details>
-<summary><strong><img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> Egypt</strong></summary>
-
-**Companies & organizations:**  
-Telecom Egypt • Raya IT • Orange Egypt • Vodafone Egypt • IBM • Microsoft • ITIDA • EG-CERT
-
-**Universities / programs:**  
-Ain Shams University • The American University in Cairo • Egypt-Japan University of Science and Technology • Nile University
-
-</details>
-<details>
-<summary><strong><img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> India</strong></summary>
-
-**Companies & organizations:**  
-TCS • Infosys • Wipro • HCLTech • Quick Heal • CloudSEK • Safe Security • CERT-In • DSCI
-
-**Universities / programs:**  
-Indian Institute of Technology Madras • Indian Institute of Technology Kanpur • Amrita Vishwa Vidyapeetham • VIT • IIIT Hyderabad
-
-</details>
-<details>
-<summary><strong><img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> United States</strong></summary>
-
-**Companies & organizations:**  
-Palo Alto Networks • CrowdStrike • Fortinet • Cisco • Microsoft • Google • Cloudflare • Okta • CISA • NIST
-
-**Universities / programs:**  
-Carnegie Mellon University • Georgia Institute of Technology • Purdue University • University of Maryland • Rochester Institute of Technology
-
-</details>
-<details>
-<summary><strong><img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> Korea</strong></summary>
-
-**Companies & organizations:**  
-AhnLab • SK Shieldus • S2W • ESTsecurity • Samsung SDS • LG CNS • KISA • Fasoo
-
-**Universities / programs:**  
-Korea University • Ajou University • KAIST • Sungkyunkwan University • POSTECH
-
-</details>
-<details>
-<summary><strong><img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> China</strong></summary>
-
-**Companies & organizations:**  
-Qi An Xin • Venustech • NSFOCUS • Sangfor • Huawei • Tencent • Alibaba Cloud • 360 Security
-
-**Universities / programs:**  
-Tsinghua University • University of Chinese Academy of Sciences • Shanghai Jiao Tong University • Xidian University • Beihang University
-
-</details>
-
----
-
-## 🎯 Major Fields
-
-<div align="center">
-
-| 🛡️ Defense | 🔎 Detection | ☁️ Modern Infrastructure |
+| 🌍 Country Ecosystems | 🎓 Education | 🛡️ Security |
 |---|---|---|
-| Network Security | SOC & SIEM | Cloud Security |
-| Application Security | Threat Intelligence | DevSecOps |
-| IAM | Incident Response | Kubernetes Security |
-| Digital Forensics | Malware Analysis | AI Security |
-| GRC | Security Research | IoT / OT Security |
+| Industry & organizations | BS in Cybersecurity | SOC & SIEM |
+| Cybersecurity companies | Universities & programs | Network & AppSec |
+| National cyber bodies | Curriculum | Cloud & DevSecOps |
+| Cybersecurity careers | Labs & internships | AI & emerging security |
 
-</div>
+**Countries covered:** United Kingdom, Singapore, Egypt, India, United States, Korea, and China.
 
 ---
 
-## 🎓 BS in Cybersecurity
+## 🌍 Countries at a Glance
 
-A focused undergraduate pathway combining **computing + security + practical defense**.
+| Country | Main cybersecurity themes |
+|---|---|
+| <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> **United Kingdom** | National cyber resilience • defense • finance • research |
+| <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> **Singapore** | Critical infrastructure • cloud • finance • regional security |
+| <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> **Egypt** | Telecom • digital infrastructure • government • enterprise |
+| <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> **India** | IT services • digital infrastructure • SOC • cloud • AppSec |
+| <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> **United States** | Security technology • cloud • defense • research |
+| <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> **Korea** | Enterprise • telecom • finance • mobile • research |
+| <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> **China** | Cloud • telecom • platforms • enterprise • research |
 
-### Core progression
+---
+
+## 🔎 Country Cybersecurity Snapshot
+
+| Country | Key sectors | Common security focus |
+|---|---|---|
+| <img src="https://flagcdn.com/w40/gb.png" width="22"> **United Kingdom** | Finance • Government • Defense • Telecom • Energy | Cyber resilience • threat intelligence • identity • critical infrastructure |
+| <img src="https://flagcdn.com/w40/sg.png" width="22"> **Singapore** | Finance • Government • Port & aviation • Telecom • Technology | Critical infrastructure • cloud • SOC • incident response |
+| <img src="https://flagcdn.com/w40/eg.png" width="22"> **Egypt** | Telecom • Banking • Government • Digital services | Network security • infrastructure • application security • workforce |
+| <img src="https://flagcdn.com/w40/in.png" width="22"> **India** | IT services • Banking • Telecom • Digital infrastructure • SaaS | SOC • AppSec • cloud • threat intelligence • security engineering |
+| <img src="https://flagcdn.com/w40/us.png" width="22"> **United States** | Technology • Defense • Finance • Healthcare • Cloud | Security platforms • zero trust • cloud • detection • research |
+| <img src="https://flagcdn.com/w40/kr.png" width="22"> **Korea** | Electronics • Telecom • Finance • Manufacturing • Technology | Endpoint security • mobile • enterprise security • cyber research |
+| <img src="https://flagcdn.com/w40/cn.png" width="22"> **China** | Technology • Telecom • Manufacturing • Cloud • Digital platforms | Network security • platform security • cloud • enterprise defense |
+
+---
+
+# 🏢 Cybersecurity Companies & 🎓 Universities
+
+<details>
+<summary><strong><img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> United Kingdom</strong> — NCSC • cyber resilience • defense • finance • security research</summary>
+
+> Study focus: cyber resilience, security operations, critical infrastructure, financial-sector security, secure systems, and threat intelligence.
+
+### Companies & Organizations
+- BAE Systems
+- Darktrace
+- Sophos
+- NCC Group
+- QinetiQ
+- BT
+- Thales
+- NCSC
+
+### Cybersecurity-focused Colleges / Universities
+- Abertay University — BSc Ethical Hacking
+- University of Warwick — BSc Cyber Security
+- Royal Holloway, University of London — Cyber Security
+- University of Southampton — Cyber Security
+- University of Birmingham — Cyber Security
+- University of Edinburgh — Cyber Security, Privacy and Trust
+
+</details>
+
+<details>
+<summary><strong><img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> Singapore</strong> — CSA • critical information infrastructure • cloud • finance • regional cyber hub</summary>
+
+> Study focus: critical information infrastructure, cloud security, financial-sector security, security operations, and cyber talent development.
+
+### Companies & Organizations
+- ST Engineering
+- Ensign InfoSecurity
+- Singtel
+- NCS
+- GovTech Singapore
+- Horangi
+- Group-IB
+- Acronis
+
+### Cybersecurity-focused Colleges / Universities
+- National University of Singapore — Information Security
+- Nanyang Technological University — Cybersecurity
+- Singapore Institute of Technology — Information Security
+- Singapore University of Technology and Design — Security
+- Singapore Management University — Information Security
+
+</details>
+
+<details>
+<summary><strong><img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> Egypt</strong> — Digital infrastructure • telecom • government services • enterprise security</summary>
+
+> Study focus: network defense, telecom security, secure digital services, enterprise security, and cybersecurity workforce development.
+
+### Companies & Organizations
+- Telecom Egypt
+- Raya Information Technology
+- Orange Egypt
+- Vodafone Egypt
+- IBM
+- Microsoft
+- Cisco
+- ITIDA
+- EG-CERT
+
+### Cybersecurity-focused Colleges / Universities
+- Ain Shams University — Cyber Security
+- The American University in Cairo — Cybersecurity
+- Egypt-Japan University of Science and Technology — Networks & Cyber Security
+- Nile University — Cybersecurity
+- Arab Academy for Science, Technology & Maritime Transport — Cybersecurity
+
+</details>
+
+<details>
+<summary><strong><img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> India</strong> — IT services • digital infrastructure • SOC • cloud • application security</summary>
+
+> Study focus: SOC operations, application security, cloud security, digital infrastructure, threat intelligence, and security engineering.
+
+### Companies & Organizations
+- TCS
+- Infosys
+- Wipro
+- HCLTech
+- Tech Mahindra
+- Quick Heal
+- CloudSEK
+- Safe Security
+- TAC Security
+- CERT-In
+- DSCI
+
+### Cybersecurity-focused Colleges / Universities
+- IIT Madras — Bachelor of Cybersecurity
+- IIT Kanpur — Bachelor's in Cybersecurity
+- Amrita Vishwa Vidyapeetham — Cyber Security
+- VIT — Cybersecurity
+- IIIT Hyderabad — Security Research
+- IIIT Delhi — Security & Privacy Research
+
+</details>
+
+<details>
+<summary><strong><img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> United States</strong> — Security technology • cloud • defense • critical infrastructure • research</summary>
+
+> Study focus: security engineering, cloud security, threat detection, zero trust, application security, defense, and security research.
+
+### Companies & Organizations
+- Palo Alto Networks
+- CrowdStrike
+- Fortinet
+- Cisco
+- Microsoft
+- Google
+- Cloudflare
+- Okta
+- Mandiant
+- SentinelOne
+- CISA
+- NIST
+
+### Cybersecurity-focused Colleges / Universities
+- Carnegie Mellon University — Information Security
+- Georgia Tech — Cybersecurity
+- Purdue University — Cybersecurity
+- University of Maryland — Cybersecurity
+- Rochester Institute of Technology — Computing Security
+- University of Texas at San Antonio — Cybersecurity
+
+</details>
+
+<details>
+<summary><strong><img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> Korea</strong> — Enterprise security • telecom • finance • mobile ecosystems • cyber research</summary>
+
+> Study focus: enterprise security, mobile and telecom security, financial security, endpoint defense, and security research.
+
+### Companies & Organizations
+- AhnLab
+- SK Shieldus
+- S2W
+- ESTsecurity
+- Samsung SDS
+- LG CNS
+- KT
+- SK Telecom
+- Penta Security
+- KISA
+
+### Cybersecurity-focused Colleges / Universities
+- Korea University — Cybersecurity
+- Ajou University — Department of Cyber Security
+- KAIST — Security Research
+- Sungkyunkwan University — Security
+- POSTECH — Security Research
+- Soongsil University — Cybersecurity
+
+</details>
+
+<details>
+<summary><strong><img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> China</strong> — Cloud • telecom • platform security • enterprise defense • cyber research</summary>
+
+> Study focus: network and platform security, telecom security, cloud security, enterprise defense, and cybersecurity research.
+
+### Companies & Organizations
+- Qi An Xin
+- Venustech
+- NSFOCUS
+- Sangfor
+- Huawei
+- Tencent
+- Alibaba Cloud
+- 360 Security
+- Topsec
+- DBAPPSecurity
+
+### Cybersecurity-focused Colleges / Universities
+- Tsinghua University — Cybersecurity
+- University of Chinese Academy of Sciences — Cyber Security
+- Shanghai Jiao Tong University — Cybersecurity Research
+- Xidian University — Cybersecurity
+- Beihang University — Cybersecurity
+- University of Science and Technology of China — Information Security
+
+</details>
+
+
+> **Important:** These are representative major organizations and cybersecurity-focused academic programs, not an exhaustive directory. Program names, availability, and company portfolios can change.
+
+---
+
+## 🎓 How to Choose a Cybersecurity College
+
+Look beyond the course title. A strong cybersecurity program should provide several of these:
+
+| Check | What to look for |
+|---|---|
+| 🎓 **Degree depth** | Dedicated cybersecurity / information security curriculum |
+| 🧪 **Hands-on labs** | Network, SOC, forensics, cloud, web, or malware labs |
+| 🏁 **CTF / competitions** | Practical security challenges and student teams |
+| 🔬 **Research** | Security, privacy, systems, AI-security, or cryptography work |
+| 💼 **Industry exposure** | Internships, projects, employer partnerships, guest sessions |
+| ☁️ **Modern infrastructure** | Cloud, containers, DevSecOps, identity, and automation |
+| 📚 **Security foundations** | Networking, operating systems, programming, cryptography |
+| 🧑‍💻 **Portfolio support** | Capstone work that can be documented publicly |
+
+> A cybersecurity degree is strongest when **theory, labs, projects, and industry exposure** reinforce one another.
+
+---
+
+# 🎓 BS in Cybersecurity
+
+A **BS in Cybersecurity** should combine computer science foundations with practical defensive and offensive security skills.
+
+### Core Areas
+
+| Foundation | Security | Advanced |
+|---|---|---|
+| Programming | Network Security | Cloud Security |
+| Data Structures | Cryptography | DevSecOps |
+| Operating Systems | Ethical Hacking | Kubernetes Security |
+| Databases | Web Security | AI Security |
+| Computer Networks | Digital Forensics | Zero Trust |
+
+### Compact 4-Year Path
 
 ```text
-Computing Foundations
+YEAR 1
+Programming • Linux • Mathematics • Data Structures • OS
         ↓
-Programming • Linux • Networking • Operating Systems
+YEAR 2
+Networks • Cryptography • Network Security • Web Security
         ↓
-Cryptography • Network Security • Secure Programming
+YEAR 3
+SOC • SIEM • Forensics • Incident Response • Cloud • AppSec
         ↓
-Ethical Hacking • Web Security • Vulnerability Assessment
+YEAR 4
+DevSecOps • Kubernetes • AI Security • Zero Trust
         ↓
-SOC • SIEM • Detection • Incident Response • Forensics
-        ↓
-Cloud Security • AppSec • DevSecOps • Kubernetes
-        ↓
-AI Security • Zero Trust • Emerging Technologies
-        ↓
-Internship + Capstone
+Internship + Capstone + Career
 ```
 
-### Compact 4-Year Curriculum
+### Graduate Skill Set
 
-| Year | Main focus |
+A graduate should be able to:
+
+- Explain core networking, operating-system, database, and security concepts.
+- Investigate logs, alerts, suspicious network activity, and endpoint events.
+- Perform authorized vulnerability assessment and security testing.
+- Build and maintain small SOC/SIEM environments.
+- Secure web applications, APIs, cloud workloads, and containers.
+- Automate repetitive security tasks with Python and scripting.
+- Apply identity, access control, encryption, and least-privilege principles.
+- Document incidents, findings, risk, remediation, and technical evidence.
+
+### Example Semester Structure
+
+| Semester | Representative subjects |
 |---|---|
-| **01** | Programming • Data Structures • Databases • Linux • OS • Web |
-| **02** | Networks • Cryptography • Network Security • Ethical Hacking • AppSec • IAM |
-| **03** | SOC • SIEM • Forensics • Incident Response • Threat Intelligence • Cloud • DevSecOps |
-| **04** | AI Security • Zero Trust • Security Engineering • Privacy • Governance • Internship • Capstone |
+| **1** | Programming • Mathematics • Computer Fundamentals • Linux |
+| **2** | Data Structures • Databases • Web Technologies • Operating Systems |
+| **3** | Computer Networks • Security Fundamentals • Cryptography |
+| **4** | Network Security • Secure Programming • Web Security • IAM |
+| **5** | Ethical Hacking • Vulnerability Assessment • SOC • SIEM |
+| **6** | Forensics • Incident Response • Threat Intelligence • Cloud Security |
+| **7** | DevSecOps • Kubernetes Security • AI Security • Security Engineering |
+| **8** | Internship • Technical Electives • Capstone Project |
 
-### Practical labs
+### Recommended Learning Outcomes
+
+By graduation, a learner should be comfortable with:
+
+| Capability | Expected outcome |
+|---|---|
+| **Programming** | Write scripts for analysis, automation, and security workflows |
+| **Networking** | Understand traffic, protocols, segmentation, and common attack paths |
+| **Systems** | Analyze Linux/Windows processes, logs, users, and system controls |
+| **Defense** | Build detections, investigate alerts, and document incidents |
+| **Offensive Security** | Perform authorized reconnaissance and vulnerability assessment |
+| **Cloud** | Apply IAM, logging, encryption, network controls, and least privilege |
+| **Application Security** | Assess common web/API risks and secure development practices |
+| **Containers** | Understand Docker/Kubernetes security controls and runtime risks |
+| **Automation** | Connect tools with Python, APIs, and repeatable workflows |
+| **Professional Practice** | Communicate findings clearly and work within authorization boundaries |
+
+### Practical Labs
 
 `Linux` `Windows` `Nmap` `Wireshark` `Burp Suite` `Wazuh` `Splunk` `Suricata` `Docker` `Kubernetes` `AWS`
 
 ---
 
-## 🧰 Security Technology Stack
+## 🔄 Cybersecurity Lifecycle
 
-| Layer | Technologies |
-|---|---|
-| 🌐 Network | Nmap · Wireshark · Zeek · Suricata · Snort |
-| 🕵️ Web / Testing | Burp Suite · Metasploit · Nessus · OpenVAS |
-| 📊 SIEM | Wazuh · Splunk · Microsoft Sentinel · Elastic Security · QRadar |
-| ☁️ Cloud | AWS · Azure · Google Cloud |
-| 📦 Containers | Docker · Kubernetes · Terraform |
-| 💻 Systems | Kali Linux · Ubuntu · Debian · Windows |
-| 🐍 Development | Python · C++ · JavaScript · Bash · SQL |
+```text
+Identify
+   ↓
+Protect
+   ↓
+Detect
+   ↓
+Investigate
+   ↓
+Respond
+   ↓
+Recover
+   ↓
+Improve
+```
+
+This repository connects these stages to **education, tools, labs, careers, and real-world security practice**.
 
 ---
 
-## ☁️ Cloud + DevSecOps + Kubernetes
+# 🧭 Major Cybersecurity Fields
+
+| Field | Focus |
+|---|---|
+| 🌐 Network Security | Networks, firewalls, traffic, segmentation |
+| 🔐 Application Security | Secure software and web applications |
+| ☁️ Cloud Security | IAM, workloads, cloud networks, logging |
+| 🛰️ SOC & SIEM | Monitoring, alert triage, detection |
+| 🚨 Incident Response | Investigation, containment, recovery |
+| 🔎 Digital Forensics | Evidence and system investigation |
+| 🧠 Threat Intelligence | Threat actors, indicators, campaigns |
+| ⚔️ Penetration Testing | Authorized security testing |
+| ⚙️ DevSecOps | Security throughout software delivery |
+| 📦 Container Security | Docker, Kubernetes, runtime security |
+| 🤖 AI Security | AI applications, models, agents, adversarial ML |
+| 📋 GRC | Governance, risk, compliance, policy |
+
+---
+
+# 🛠️ Security Technology Stack
+
+| Category | Tools / Technologies |
+|---|---|
+| **Network** | Nmap • Wireshark • Zeek • Suricata • Snort |
+| **Web Security** | Burp Suite • OWASP tools • vulnerability scanners |
+| **SIEM** | Wazuh • Splunk • Microsoft Sentinel • Elastic Security |
+| **Endpoint / Detection** | Windows Event Logs • Sysmon • EDR platforms |
+| **Cloud** | AWS • Microsoft Azure • Google Cloud |
+| **Containers** | Docker • Kubernetes • Terraform |
+| **Systems** | Kali Linux • Ubuntu • Debian • Windows |
+| **Programming** | Python • C++ • JavaScript • Bash • SQL |
+
+---
+
+## 🔧 What to Learn in Each Layer
+
+| Layer | Skills to build |
+|---|---|
+| **Network** | TCP/IP • DNS • HTTP/S • routing • firewalls • packet analysis |
+| **Endpoint** | Windows logs • Linux logs • processes • persistence • hardening |
+| **Identity** | IAM • MFA • RBAC • least privilege • privileged access |
+| **Application** | OWASP risks • APIs • authentication • secrets • secure coding |
+| **Cloud** | IAM • VPC/networking • logging • encryption • workload security |
+| **Detection** | telemetry • detection rules • correlation • triage • investigation |
+| **Response** | containment • evidence collection • eradication • recovery |
+| **Automation** | Python • Bash • APIs • alert enrichment • security workflows |
+
+## 🧰 Tool Selection by Task
+
+| Task | Useful starting tools |
+|---|---|
+| **Network discovery** | Nmap |
+| **Packet analysis** | Wireshark |
+| **Web testing** | Burp Suite |
+| **Centralized logging** | Wazuh / Splunk / Elastic |
+| **Network detection** | Suricata / Zeek / Snort |
+| **Endpoint investigation** | Windows Event Logs / Sysmon |
+| **Cloud security** | Cloud-native IAM, logging, and security services |
+| **Container security** | Docker scanning + Kubernetes controls |
+| **Automation** | Python + APIs + Bash |
+
+# ☁️ Cloud • DevSecOps • Kubernetes
 
 ```text
 Code
-  ↓
+ ↓
 Source Control
-  ↓
-SAST / Dependency Scan
-  ↓
-Build → Container Scan
-  ↓
+ ↓
+SAST / SCA
+ ↓
+Build
+ ↓
+Container Security
+ ↓
 IaC Security
-  ↓
+ ↓
 CI/CD
-  ↓
+ ↓
 Kubernetes
-  ↓
+ ↓
 Runtime Monitoring
-  ↓
-Detection → Response
+ ↓
+Detection & Response
 ```
 
-### Key skills
-
-**Cloud:** IAM · VPC · Security Groups · Encryption · Logging · Secrets  
-**DevSecOps:** SAST · DAST · SCA · CI/CD · Supply Chain Security  
-**Kubernetes:** RBAC · Network Policies · Pod Security · Image Security · Runtime Detection
+**Learn:** IAM • secrets • encryption • logging • network security • RBAC • network policies • image security • supply-chain security.
 
 ---
 
-## 🤖 AI & Cybersecurity
+# 🤖 AI + Cybersecurity
 
-### Security using AI
-- Alert enrichment
+### AI for Security
+- Threat detection
 - Log analysis
+- Alert enrichment
 - Anomaly detection
 - Malware classification
 - Phishing detection
 - Vulnerability prioritization
 - Security automation
 
-### Securing AI
+### Security for AI
 - Prompt injection
 - AI application security
 - Model security
 - Data security
-- Model supply chain
 - AI agent security
+- Model supply chain
 - Adversarial machine learning
 
 ---
 
-## 💼 Career Paths
+# 💼 Cybersecurity Careers
 
-```text
-IT / CS Foundation
-        ↓
-Cybersecurity Fundamentals
-        ↓
-SOC / Network / AppSec / Cloud
-        ↓
-Analyst → Engineer → Specialist
-        ↓
-Architect / Researcher / Security Lead
-```
-
-| Role | Typical focus |
+| Role | Core work |
 |---|---|
-| 🛰️ SOC Analyst | Monitoring, triage, alert investigation |
-| 🔍 Security Analyst | Detection, assessment, security operations |
-| 🛡️ Security Engineer | Defensive architecture and tooling |
-| ⚔️ Penetration Tester | Authorized security testing |
-| ☁️ Cloud Security Engineer | Cloud identity, network, workload security |
-| 🔐 AppSec Engineer | Secure software and application testing |
-| 🚨 Incident Responder | Investigation and containment |
-| 🧬 Threat Intelligence Analyst | Threat research and intelligence |
-| 🧪 Digital Forensics Analyst | Evidence and system investigation |
-| ⚙️ DevSecOps Engineer | Security integrated into delivery pipelines |
-| 🏗️ Security Architect | Enterprise security architecture |
-| 📋 GRC Analyst | Governance, risk, compliance |
+| SOC Analyst | Monitoring & alert investigation |
+| Security Analyst | Detection & security operations |
+| Security Engineer | Defensive systems & architecture |
+| Detection Engineer | Detection logic & telemetry |
+| Incident Responder | Investigation & containment |
+| Threat Intelligence Analyst | Threat research |
+| Digital Forensics Analyst | Evidence & forensic analysis |
+| Penetration Tester | Authorized security testing |
+| Application Security Engineer | Secure software |
+| Cloud Security Engineer | Cloud security architecture |
+| DevSecOps Engineer | Security automation & CI/CD |
+| Security Architect | Enterprise security design |
+| GRC Analyst | Governance, risk & compliance |
 
 ---
 
-## 🧪 Practical Learning
+# 🧪 Projects & Capstone
 
-### Build these labs
+A strong cybersecurity portfolio can include:
 
-| Level | Project |
+| Level | Example |
 |---|---|
-| 🟢 Beginner | Linux security + network scanning lab |
-| 🟢 Beginner | Wireshark traffic analysis |
-| 🟡 Intermediate | Wazuh SOC home lab |
+| 🟢 Beginner | Network monitoring lab |
+| 🟢 Beginner | Linux security lab |
+| 🟡 Intermediate | SOC + SIEM home lab |
 | 🟡 Intermediate | Web vulnerability scanner |
 | 🟡 Intermediate | Distributed log monitoring |
-| 🟠 Advanced | Cloud security monitoring |
+| 🟠 Advanced | Cloud threat detection |
 | 🟠 Advanced | Kubernetes threat detection |
-| 🔴 Advanced | AI-assisted threat detection |
+| 🔴 Advanced | AI-assisted security detection |
 
-> ⚠️ **Responsible Security:** Test only systems you own or have explicit authorization to assess. Use labs, CTFs, and isolated environments for security testing.
+### Capstone checklist
 
----
-
-## 🏆 Certifications
-
-| Foundation | Professional | Specialized |
-|---|---|---|
-| Security+ | CISSP | GIAC |
-| Cisco CyberOps Associate | OSCP | AWS Security |
-| Network+ | CEH | Microsoft Security |
-| Linux fundamentals | — | Google Cloud Security |
-
-*Always verify current certification names, requirements, and exam policies with the issuing organization.*
+`Threat Model` → `Architecture` → `Implementation` → `Testing` → `Detection` → `Results` → `Documentation`
 
 ---
 
-## 🗺️ Learning Roadmap
+## 📂 Portfolio Progression
 
-**01** Computer Fundamentals  
-→ **02** Linux + Networking  
-→ **03** Python + Scripting  
-→ **04** Cybersecurity Fundamentals  
-→ **05** Network + Web Security  
-→ **06** SOC + SIEM  
-→ **07** Incident Response + Forensics  
-→ **08** Cloud Security  
-→ **09** DevSecOps + Kubernetes  
-→ **10** AI + Cybersecurity  
-→ **11** Internship  
-→ **12** Capstone + Career
+```text
+Foundation
+  └─ Linux + Networking + Python
+        ↓
+Security
+  └─ Nmap + Wireshark + Web Security
+        ↓
+Blue Team
+  └─ Wazuh / SIEM + Logs + Detection
+        ↓
+Engineering
+  └─ Cloud + Docker + Kubernetes + DevSecOps
+        ↓
+Advanced
+  └─ Threat Detection + AI Security
+        ↓
+Professional
+  └─ Internship + Capstone + Documentation
+```
+
+A strong project should show **the problem, architecture, implementation, security controls, testing method, results, limitations, and future improvements**.
+
+# 🗺️ Learning Roadmap
+
+```text
+01  Computer Fundamentals
+ ↓
+02  Linux + Networking
+ ↓
+03  Python + Scripting
+ ↓
+04  Cybersecurity Fundamentals
+ ↓
+05  Network + Web Security
+ ↓
+06  SOC + SIEM
+ ↓
+07  Incident Response + Forensics
+ ↓
+08  Cloud Security
+ ↓
+09  DevSecOps + Kubernetes
+ ↓
+10  AI + Cybersecurity
+ ↓
+11  Internship
+ ↓
+12  Capstone + Career
+```
 
 ---
 
-## 🚀 Future Security Areas
+## 🎯 What to Build Along the Roadmap
+
+| Stage | Suggested output |
+|---|---|
+| Fundamentals | Linux hardening notes + networking lab |
+| Network Security | Packet-analysis report + scanning lab |
+| Web Security | Authorized web-security lab |
+| SOC | Wazuh/SIEM home lab + detection rules |
+| Incident Response | Investigation report + timeline |
+| Cloud | Cloud logging and IAM security lab |
+| Kubernetes | Container and runtime security lab |
+| AI Security | Small detection or AI-security research project |
+| Final | Internship-quality capstone with documentation |
+
+## 🧠 What a Strong Security Portfolio Shows
+
+A professional cybersecurity project should make five things obvious:
+
+**Problem** → What security problem are you solving?  
+**Architecture** → What systems, data flows, and controls are involved?  
+**Implementation** → What did you actually build or configure?  
+**Evidence** → What logs, screenshots, tests, metrics, or findings support the result?  
+**Lessons** → What are the limitations, risks, and next improvements?
+
+> A clean README, architecture diagram, setup steps, test results, and lessons learned can make a small project much easier to evaluate.
+
+---
+
+# 🏆 Certifications
+
+**Foundation**
+
+`CompTIA Security+` · `Cisco CyberOps Associate`
+
+**Professional**
+
+`CISSP` · `OSCP` · `CEH`
+
+**Specialized**
+
+`GIAC` · `AWS Security` · `Microsoft Security` · `Google Cloud Security`
+
+> Always check the issuing organization's current certification requirements and exam policies.
+
+---
+
+# 🚀 Emerging Areas
 
 `AI Agent Security` · `Autonomous SecOps` · `Zero Trust` · `Post-Quantum Cryptography` · `Software Supply Chain Security` · `Cloud-Native Security` · `Kubernetes Security` · `IoT Security` · `OT/ICS Security` · `Privacy Engineering` · `Digital Identity` · `Cyber Resilience`
 
 ---
 
-## 📁 Suggested Repository Structure
+# 🧩 Suggested Repository Structure
 
 ```text
 Cybersecurity-Across-7-Countries/
 │
 ├── README.md
+│
 ├── countries/
 │   ├── united-kingdom/
 │   ├── singapore/
@@ -353,72 +685,93 @@ Cybersecurity-Across-7-Countries/
 │
 ├── labs/
 │   ├── soc/
+│   ├── network-security/
 │   ├── cloud-security/
-│   ├── web-security/
 │   └── kubernetes-security/
 │
 └── resources/
-    ├── courses/
     ├── standards/
+    ├── courses/
     └── research/
 ```
 
 ---
 
-## 🤝 Contributions
+# 🤝 Contributions
 
-Want to improve the repository?
+Contributions are welcome.
 
-```text
-Fork
- ↓
-Create Branch
- ↓
-Add / Update Information
- ↓
-Verify Sources
- ↓
-Open Pull Request
- ↓
-Review & Merge
-```
+**Good additions include:**
 
-Good contributions include:
-- Verified companies and organizations
-- University/program updates
-- Country cybersecurity developments
-- New labs and learning resources
-- Technology documentation
+- Verified cybersecurity companies
+- Cybersecurity-focused universities
+- Updated degree programs
+- Country-specific security resources
+- Labs and projects
+- Research and standards
 - Corrections to outdated information
+
+**Workflow**
+
+`Fork` → `Branch` → `Update` → `Verify Sources` → `Pull Request`
 
 ---
 
-## 📚 Official Reference Points
+# ⚠️ Responsible Security
 
-| Region | Reference |
+Use security tools only on systems you own or have **explicit authorization** to test.
+
+For practical work, use:
+
+`CTFs` · `Home Labs` · `Virtual Machines` · `Cloud Test Environments` · `Authorized Programs`
+
+---
+
+# 📚 Official Starting Points
+
+| Country | Official cybersecurity reference |
 |---|---|
 | <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> United Kingdom | [NCSC](https://www.ncsc.gov.uk/) |
-| <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> Singapore | [CSA Singapore](https://www.csa.gov.sg/) |
-| <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> Egypt | [MCIT](https://mcit.gov.eg/) · [ITIDA](https://itida.gov.eg/) |
-| <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> India | [CERT-In](https://www.cert-in.org.in/) · [DSCI](https://www.dsci.in/) |
-| <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> United States | [CISA](https://www.cisa.gov/) · [NIST](https://www.nist.gov/) |
+| <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> Singapore | [Cyber Security Agency of Singapore](https://www.csa.gov.sg/) |
+| <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> Egypt | [MCIT](https://mcit.gov.eg/) • [ITIDA](https://itida.gov.eg/) |
+| <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> India | [CERT-In](https://www.cert-in.org.in/) • [DSCI](https://www.dsci.in/) |
+| <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> United States | [CISA](https://www.cisa.gov/) • [NIST](https://www.nist.gov/) |
 | <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> Korea | [KISA](https://www.kisa.or.kr/) |
 | <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag"> China | [CAC](https://www.cac.gov.cn/) |
 
 ---
 
-## 📌 Disclaimer
+### 🧱 Security Frameworks & Standards
 
-This repository is for **educational and informational purposes**. Country, company, university, certification, and regulatory information can change. Lists are representative rather than exhaustive.
+| Framework / Standard | Useful for |
+|---|---|
+| **NIST Cybersecurity Framework** | Organizing cybersecurity risk and outcomes |
+| **CIS Controls** | Prioritizing practical security safeguards |
+| **MITRE ATT&CK** | Threat behavior, techniques, and detection mapping |
+| **OWASP Top 10** | Common web application security risks |
+| **ISO/IEC 27001** | Information security management systems |
+| **CVE / CWE** | Vulnerability and weakness tracking |
 
-Inclusion does **not** imply endorsement, partnership, employment affiliation, certification, or ranking.
+# 📌 Notes
+
+- This project focuses specifically on **seven countries**.
+- Company and university lists are **representative, not exhaustive**.
+- Inclusion does not mean endorsement, partnership, employment affiliation, or ranking.
+- Verify current university programs, company services, certifications, and national policies from official sources.
+- The UK section can be cross-checked against the NCSC's certified-degree directory; for example, NCSC currently lists certified undergraduate programs at Abertay and Warwick. citeturn0search0turn0search2
+- India now has dedicated undergraduate **Bachelor's in Cybersecurity / B.Cyber.** programs at IIT Madras and IIT Kanpur, with the programs beginning in the 2026–27 academic cycle. citeturn0search1turn0search11
+- Singapore's CSA and NUS jointly operate the CyberSG Talent, Innovation and Growth Collaboration Centre, connecting government, academia, and industry around cybersecurity talent and innovation. citeturn0search5
 
 ---
 
 <p align="center">
-  <strong>🔐 Learn. Build. Detect. Defend.</strong>
+  <strong>🔐 Learn • Build • Detect • Defend</strong>
 </p>
 
 <p align="center">
-  Cybersecurity • Education • Technology • Research • Careers
+  <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag">
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Education • Industry • Technology • Research • Careers</sub>
 </p>
