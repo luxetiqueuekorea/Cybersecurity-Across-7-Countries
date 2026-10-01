@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-111827?style=flat-square" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/7%20COUNTRIES-2563EB?style=flat-square" alt="7 Countries">
-  <img src="https://img.shields.io/badge/INDUSTRY%20%26%20EDUCATION-374151?style=flat-square" alt="Industry and Education">
-  <img src="https://img.shields.io/badge/CLOUD%20%26%20DEVSECOPS-374151?style=flat-square" alt="Cloud and DevSecOps">
-  <img src="https://img.shields.io/badge/AI%20%26%20SECURITY-111827?style=flat-square" alt="AI and Security">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-047857?style=flat-square" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/7%20COUNTRIES-1E3A8A?style=flat-square" alt="7 Countries">
+  <img src="https://img.shields.io/badge/INDUSTRY%20%26%20EDUCATION-334155?style=flat-square" alt="Industry and Education">
+  <img src="https://img.shields.io/badge/CLOUD%20%26%20DEVSECOPS-0369A1?style=flat-square" alt="Cloud and DevSecOps">
+  <img src="https://img.shields.io/badge/AI%20%26%20SECURITY-0F766E?style=flat-square" alt="AI and Security">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/CYBERSECURITY-0F172A?style=flat-square" alt="Cybersecurity">
