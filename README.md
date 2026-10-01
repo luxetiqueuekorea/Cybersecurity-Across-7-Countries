@@ -17,19 +17,19 @@
 
 Cybersecurity Across 7 Countries is a structured learning and reference project covering the cybersecurity ecosystem across:
 
-🇬🇧 United Kingdom
+:gb: United Kingdom
 
-🇸🇬 Singapore
+:sg: Singapore
 
-🇪🇬 Egypt
+:eg: Egypt
 
-🇮🇳 India
+:india: India
 
-🇺🇸 United States
+:us: United States
 
-🇰🇷 Korea
+:kr: Korea
 
-🇨🇳 China
+:cn: China
 
 The project brings together national cybersecurity ecosystems, notable security companies, education pathways, professional roles, technical skills, security technologies, and emerging areas.
 
@@ -143,7 +143,7 @@ Career Opportunities
 
 Relevant Government / National Cybersecurity Bodies
 
-🇬🇧 United Kingdom
+:gb: United Kingdom
 
 Cybersecurity Landscape
 
@@ -315,7 +315,7 @@ Cyber Security and Networks / Cyber Security programs
 
 The NCSC also recognises Academic Centres of Excellence in Cyber Security Research, including universities such as Cambridge, Imperial College London, Oxford, Warwick, Southampton, Bristol, Edinburgh, Manchester and others. citeturn0search8
 
-🇸🇬 Singapore
+:sg: Singapore
 
 Cybersecurity Landscape
 
@@ -437,7 +437,7 @@ NUS offers a dedicated undergraduate Bachelor of Computing in Information Securi
 
 The CyberSG Talent, Innovation and Growth Collaboration Centre is a joint initiative involving the Cyber Security Agency of Singapore and NUS, connecting government, academia and industry. citeturn0search9
 
-🇪🇬 Egypt
+:eg: Egypt
 
 Cybersecurity Landscape
 
@@ -559,7 +559,7 @@ Computer science and information-security research/education
 
 Ain Shams University explicitly offers a BSc in Cyber Security, while the American University in Cairo offers a BS in Computer Science with a Cybersecurity specialization. Egypt-Japan University of Science and Technology lists Computer Networks and Cyber Security as an undergraduate program. citeturn1search8turn1search9turn1search10
 
-🇮🇳 India
+:india: India
 
 Cybersecurity Landscape
 
@@ -733,7 +733,7 @@ Cybersecurity-related engineering education
 
 IIT Madras and IIT Kanpur launched a practice-oriented four-year Bachelor of Cybersecurity program beginning in 2026; the program includes computer systems, Linux administration, cryptography, ethical hacking and other security-focused coursework. citeturn1search4 Amrita also offers a B.Tech in Computer Science and Engineering (Cyber Security). citeturn1search5
 
-🇺🇸 United States
+:us: United States
 
 Cybersecurity Landscape
 
@@ -933,7 +933,7 @@ Computer security and cybersecurity
 
 The federal NCAE-C framework includes Cyber Defense, Cyber Operations, and Cyber Research designations, covering associate, bachelor's and graduate education depending on the institution. citeturn1search6
 
-🇰🇷 Korea
+:kr: Korea
 
 Cybersecurity Landscape
 
@@ -1075,7 +1075,7 @@ Information security-related education and research
 
 Ajou University has a dedicated Department of Cyber Security within its College of Computing and Informatics. Its published career information also identifies security companies, major technology companies, government institutions and research organisations as relevant employment areas. citeturn1search2turn1search3turn0search3
 
-🇨🇳 China
+:cn: China
 
 Cybersecurity Landscape
 
@@ -1497,7 +1497,7 @@ The seven-country ecosystem includes security vendors, consulting companies, tel
 
 Scope note: The lists below focus on major, nationally or internationally visible companies and organizations with substantial cybersecurity relevance. They are representative rather than an exhaustive list of every cybersecurity employer in each country.
 
-🇬🇧 United Kingdom
+:gb: United Kingdom
 
 BAE Systems
 
@@ -1513,7 +1513,7 @@ Vodafone
 
 Thales
 
-🇸🇬 Singapore
+:sg: Singapore
 
 ST Engineering
 
@@ -1527,7 +1527,7 @@ Singtel
 
 NCS
 
-🇪🇬 Egypt
+:eg: Egypt
 
 Telecom Egypt
 
@@ -1541,7 +1541,7 @@ IBM Egypt
 
 Microsoft Egypt
 
-🇮🇳 India
+:india: India
 
 Tata Consultancy Services
 
@@ -1561,7 +1561,7 @@ SecurEyes
 
 Safe Security
 
-🇺🇸 United States
+:us: United States
 
 Palo Alto Networks
 
@@ -1583,7 +1583,7 @@ SentinelOne
 
 Mandiant
 
-🇰🇷 Korea
+:kr: Korea
 
 AhnLab
 
@@ -1601,7 +1601,7 @@ KT
 
 SK Telecom
 
-🇨🇳 China
+:cn: China
 
 Qi An Xin
 
@@ -2160,35 +2160,35 @@ Cybersecurity tools and techniques should only be used on systems and environmen
 
 📖 References
 
-🇬🇧 United Kingdom
+:gb: United Kingdom
 
 National Cyber Security Centre — https://www.ncsc.gov.uk/
 
-🇸🇬 Singapore
+:sg: Singapore
 
 Cyber Security Agency of Singapore — https://www.csa.gov.sg/
 
-🇪🇬 Egypt
+:eg: Egypt
 
 Ministry of Communications and Information Technology — https://mcit.gov.eg/
 
-🇮🇳 India
+:india: India
 
 Indian Computer Emergency Response Team — https://www.cert-in.org.in/
 
 Data Security Council of India — https://www.dsci.in/
 
-🇺🇸 United States
+:us: United States
 
 Cybersecurity and Infrastructure Security Agency — https://www.cisa.gov/
 
 National Institute of Standards and Technology — https://www.nist.gov/
 
-🇰🇷 Korea
+:kr: Korea
 
 Korea Internet & Security Agency — https://www.kisa.or.kr/
 
-🇨🇳 China
+:cn: China
 
 Cyberspace Administration of China — https://www.cac.gov.cn/
 
