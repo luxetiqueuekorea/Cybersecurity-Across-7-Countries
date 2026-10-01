@@ -625,7 +625,7 @@ A professional cybersecurity project should make five things obvious:
 
 `AI Agent Security` · `Autonomous SecOps` · `Zero Trust` · `Post-Quantum Cryptography` · `Software Supply Chain Security` · `Cloud-Native Security` · `Kubernetes Security` · `IoT Security` · `OT/ICS Security` · `Privacy Engineering` · `Digital Identity` · `Cyber Resilience`
 
-# 🧩 Suggested Repository Structure
+# 🧩 Repository Structure
 
 ```text
 Cybersecurity-Across-7-Countries/
@@ -713,9 +713,21 @@ For practical work, use:
 - Company and university lists are **representative, not exhaustive**.
 - Inclusion does not mean endorsement, partnership, employment affiliation, or ranking.
 - Verify current university programs, company services, certifications, and national policies from official sources.
-- The UK section can be cross-checked against the NCSC's certified-degree directory; for example, NCSC currently lists certified undergraduate programs at Abertay and Warwick. citeturn0search0turn0search2
-- India now has dedicated undergraduate **Bachelor's in Cybersecurity / B.Cyber.** programs at IIT Madras and IIT Kanpur, with the programs beginning in the 2026–27 academic cycle. citeturn0search1turn0search11
-- Singapore's CSA and NUS jointly operate the CyberSG Talent, Innovation and Growth Collaboration Centre, connecting government, academia, and industry around cybersecurity talent and innovation. citeturn0search5
+- The UK section can be cross-checked against the NCSC's certified-degree directory; for example, NCSC currently lists certified undergraduate programs at Abertay and Warwick.
+- India now has dedicated undergraduate **Bachelor's in Cybersecurity / B.Cyber.** programs at IIT Madras and IIT Kanpur, with the programs beginning in the 2026–27 academic cycle.
+- Singapore's CSA and NUS jointly operate the CyberSG Talent, Innovation and Growth Collaboration Centre, connecting government, academia, and industry around cybersecurity talent and innovation.
+
+<p align="center">
+  <strong>🔐 Learn • Build • Detect • Defend</strong>
+</p>
+
+<p align="center">
+  <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag">
+</p>
+
+<p align="center">
+  <sub>Cybersecurity • Education • Industry • Technology • Research • Careers</sub>
+</p>
 
 <p align="center">
   <strong>🔐 Learn • Build • Detect • Defend</strong>
