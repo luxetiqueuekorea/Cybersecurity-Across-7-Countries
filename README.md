@@ -15,6 +15,26 @@
 </p>
 
 <p align="center">
+  <strong>Cybersecurity • Education • Industry • Research • Careers</strong>
+</p>
+
+<p align="center">
+  <img src="https://flagcdn.com/w40/gb.png" width="24" alt="United Kingdom"> United Kingdom
+  &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/sg.png" width="24" alt="Singapore"> Singapore
+  &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/eg.png" width="24" alt="Egypt"> Egypt
+  &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/in.png" width="24" alt="India"> India
+  &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/us.png" width="24" alt="United States"> United States
+  &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/kr.png" width="24" alt="Korea"> Korea
+  &nbsp;•&nbsp;
+  <img src="https://flagcdn.com/w40/cn.png" width="24" alt="China"> China
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/CYBERSECURITY-111827?style=flat-square" alt="Cybersecurity">
   <img src="https://img.shields.io/badge/7%20COUNTRIES-2563EB?style=flat-square" alt="7 Countries">
   <img src="https://img.shields.io/badge/INDUSTRY%20%26%20EDUCATION-374151?style=flat-square" alt="Industry and Education">
