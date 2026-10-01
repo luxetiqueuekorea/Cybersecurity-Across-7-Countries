@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Across 7 Countries
+# Cybersecurity Across 7 Countries
 
 <p align="center">
   <strong>A practical global reference for cybersecurity industry, education, careers, and technology.</strong>
@@ -27,6 +27,13 @@
   <img src="https://img.shields.io/badge/CLOUD%20%26%20DEVSECOPS-374151?style=flat-square" alt="Cloud and DevSecOps">
   <img src="https://img.shields.io/badge/AI%20%26%20SECURITY-111827?style=flat-square" alt="AI and Security">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-0F172A?style=flat-square" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/7%20COUNTRIES-1D4ED8?style=flat-square" alt="7 Countries">
+  <img src="https://img.shields.io/badge/INDUSTRY%20%26%20EDUCATION-334155?style=flat-square" alt="Industry and Education">
+  <img src="https://img.shields.io/badge/CLOUD%20%26%20DEVSECOPS-0369A1?style=flat-square" alt="Cloud and DevSecOps">
+  <img src="https://img.shields.io/badge/AI%20%26%20SECURITY-0E7490?style=flat-square" alt="AI and Security">
+</p>
 
 ## 🧭 Quick Navigation
 
@@ -34,9 +41,6 @@
 **Education** → [BS in Cybersecurity](#-bs-in-cybersecurity) · [Major Fields](#-major-cybersecurity-fields)  
 **Technology** → [Security Stack](#-security-technology-stack) · [Cloud / DevSecOps](#-cloud--devsecops--kubernetes) · [AI Security](#-ai--cybersecurity)  
 **Career** → [Careers](#-cybersecurity-careers) · [Projects](#-projects--capstone) · [Roadmap](#-learning-roadmap) · [Certifications](#-certifications)
-
----
-
 
 ---
 
