@@ -728,15 +728,3 @@ For practical work, use:
 <p align="center">
   <sub>Cybersecurity • Education • Industry • Technology • Research • Careers</sub>
 </p>
-
-<p align="center">
-  <strong>🔐 Learn • Build • Detect • Defend</strong>
-</p>
-
-<p align="center">
-  <img src="https://flagcdn.com/w40/gb.png" width="22" alt="United Kingdom flag"> <img src="https://flagcdn.com/w40/sg.png" width="22" alt="Singapore flag"> <img src="https://flagcdn.com/w40/eg.png" width="22" alt="Egypt flag"> <img src="https://flagcdn.com/w40/in.png" width="22" alt="India flag"> <img src="https://flagcdn.com/w40/us.png" width="22" alt="United States flag"> <img src="https://flagcdn.com/w40/kr.png" width="22" alt="Korea flag"> <img src="https://flagcdn.com/w40/cn.png" width="22" alt="China flag">
-</p>
-
-<p align="center">
-  <sub>Cybersecurity • Education • Industry • Technology • Research • Careers</sub>
-</p>
