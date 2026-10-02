@@ -289,7 +289,7 @@ Look beyond the course title. A strong cybersecurity program should provide seve
 
 # 🎓 BS in Cybersecurity
 
-A **BS in Cybersecurity** should combine computer science foundations with practical defensive and offensive security skills.
+A **BS in Cybersecurity** builds a strong foundation in computer science while developing practical skills in cybersecurity, threat detection, and defense.
 
 ### Core Areas
 
