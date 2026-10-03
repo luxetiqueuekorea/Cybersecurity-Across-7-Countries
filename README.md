@@ -733,10 +733,10 @@ For practical work, use:
 
 By: Luxetiqueue Korea
 
-Website: <a href="https://luxetiqueuekorea.com">luxetiqueuekorea.com</a><br>
-Instagram: <a href="https://instagram.com/luxetiqueuekorea">instagram.com/luxetiqueuekorea</a><br>
-Threads: <a href="https://threads.com/@luxetiqueuekorea">threads.com/@luxetiqueuekorea</a><br>
-GitHub: <a href="https://github.com/luxetiqueuekorea">github.com/luxetiqueuekorea</a><br>
-LinkedIn: <a href="https://linkedin.com/company/luxetiqueuekorea">linkedin.com/company/luxetiqueuekorea</a><br>
-Email: <a href="mailto:info@luxetiqueuekorea.com">info@luxetiqueuekorea.com</a><br>
-YouTube: <a href="https://www.youtube.com/@luxetiqueuekorea">youtube.com/@luxetiqueuekorea</a>
+Website: https://luxetiqueuekorea.com
+Instagram: https://instagram.com/luxetiqueuekorea
+Threads: https://threads.com/@luxetiqueuekorea
+GitHub: https://github.com/luxetiqueuekorea
+LinkedIn: https://linkedin.com/company/luxetiqueuekorea
+Email: info@luxetiqueuekorea.com
+YouTube: https://www.youtube.com/@luxetiqueuekorea
